@@ -1,0 +1,96 @@
+bugs:
+-last group (S&D) was not showing
+-first MEP from new group was not saved
+
+ideas:
+- filter by criteria
+- return percentage of similarity to others with same criteria
+- ^ to find people that vote differently from their norm
+
+
+
+
+import pandas as pd
+
+# cols_to_use = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+# cols_to_use = [0,1,4,5]
+cols_to_use = [0,1,2,4,5,13]
+data = pd.read_csv("dataset.csv", usecols= cols_to_use, encoding='utf-8-sig')
+
+def demoPrint(data):
+	data_top = data.head()
+	return data_top
+
+print demoPrint(data)
+
+def outputToCsv(outputName, df):
+	# df = pd.DataFrame(tempDic, columns=["First Name", "Last Name", "Country", "Political Group", "26 March 2019 Final Vote", "National Political Group"])
+	fileName = "output/" + outputName + ".csv"
+	df.to_csv(fileName, index=False, encoding="utf-8-sig")
+
+# find how many diff EU-level groups there are
+def listGroups(data):
+	p_groups={}
+	for index, row in data.iterrows():
+		curGroup = row["Political_Group"]
+		if curGroup not in p_groups.keys():
+			p_groups[curGroup] = 1
+		else:
+			p_groups[curGroup] +=1
+	return p_groups
+
+print listGroups(data)
+
+def filterCountryRow(df,input):
+	return df[df.Country == input]
+
+def filterEUGroupRow(df,input):
+	return df[df.Political_Group == input]
+
+def filterNatGroupRow(df,input):
+	return df[df.National_Political_Group == input]
+
+name = raw_input("What is your name? ")
+type(name)
+
+# data = filterEUGroupRow(data,"ALDE")
+# data = filterCountryRow(data,"Belgium")
+
+
+# print listGroups(data)
+# print demoPrint(data)
+# outputToCsv("test",data)
+
+# sorted = data.sort_values("Political Group")
+
+# def dfToDict(input):
+# 	return input.to_dict(orient='records')
+
+# organise per party to separate files
+
+
+# def exportByGroup(records):
+# 	group = None;
+# 	tempDic = []
+# 	for row in records:
+# 		if group == None:
+# 			group = row["Political Group"]
+# 			tempDic.append(row)
+# 		elif group == row["Political Group"]:
+# 			#add to current tempdic
+# 			tempDic.append(row)
+# 		else:
+# 			outputToCsv(group,tempDic)
+# 			tempDic = []
+# 			group = row["Political Group"]
+# 			tempDic.append(row)
+
+# 	outputToCsv(group,tempDic)
+		
+# count fors/againsts/others
+# find rebels
+# take input from user on all criteria (A = Country, B = EU political group, C = National Political Group)
+# keep track of all user filter wishes
+# do everything in pandas dataframes
+# remove all which dont apply to A && B && C
+# return probability of YES vote & csv file
