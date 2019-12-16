@@ -63,16 +63,10 @@ data['Gender']= data['Gender'].astype(str)
 pdToList = list(data['Full Name'])
 
 print(data.head())
-# male (Q6581097), female (Q6581072)
 
 def main():
-    # go through dataframe row by row
     for i in range(len(pdToList)):
-        # i = 638
-        # i = 708
-        # check 'Wikidata code' column
         code = data.at[i, 'Wikidata code']
-        # print(code)
         if data.at[i,'Gender'] == "#N/A" or data.at[i,'Age'] == 0:
             data.at[i,'Gender'] = getWikiDataParam(code,"P21")
             dob = getWikiDataParam(code,"P569")
@@ -82,27 +76,11 @@ def main():
             data.at[i,'DoB'] = dob
             difference_in_years = relativedelta(voteDate, dob).years
             data.at[i,'Age'] = difference_in_years
-        # print(data.iloc[i])
-        # break
         print(i)
         if i%10 == 0:
             outputToCsv("Mepnames", data)
-
-    # print(getWikiDataParam("Q78215","P569"))
-    # print(getWikiDataParam("Q78215","P21"))
-
-    # counter = 0
-    # for i in pdToList:
-    #     bDate = findBirthDate(i)
-    #     difference_in_years = relativedelta(voteDate, bDate).years
-    #     data.at[counter, 'Age'] = difference_in_years
-    #     counter = counter + 1
-
-    # print(data.head())
     outputToCsv("Mepnames", data)
 
 
 if __name__ == '__main__':
     main()
-
-# print(ages)
