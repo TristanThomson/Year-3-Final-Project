@@ -1,0 +1,12 @@
+wikipedia api helps get summaries of wikipedia pages that sometimes contain birth dates. A significant proportion of the meps' pages' summaries did not contain them.
+I decided to use the wikimedia api which necessitates wikidata codes to access data.
+I'm getting the codes from a google sheets formula (https://stackoverflow.com/questions/37024807/how-to-get-wikidata-id-for-an-wikipedia-article-by-api#answer-43030942).
+I also had the option of getting the code from a JSON object (https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Philippe_Lamberts&normalize=1).
+
+From the codes, I get gender, dob, age from wikidata.
+Sometimes, the code refers to the wrong person, so I impose a check of the description to find one of a set of keywords.
+I need to establish the list of keywords. +editing wikipedia
+
+Q4992676 (Martina Anderson) doesn't work - polititcian
+
+=COUNTIF(E1:E751,"0")

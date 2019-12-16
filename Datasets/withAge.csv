@@ -1,751 +1,752 @@
-﻿Full Name,Age
-Heinz K. Becker,68.0
-Eugen Freund,67.0
-Karoline Graswander-Hainz,45.0
-Karin Kadenbach,60.0
-Barbara Kappel,54.0
-Othmar Karas,61.0
-Lukas Mandl,39.0
-Georg Mayer,45.0
-Angelika Mlinar,48.0
-Franz Obermayr,66.0
-Evelyn Regner,53.0
-Michel Reimon,47.0
-Paul Rübig,65.0
-Claudia Schmidt,0.0
-Monika Vana,49.0
-Harald Vilimsky,52.0
-Thomas Waitz,0.0
-Josef Weidenholzer,69.0
-Gerolf Annemans,60.0
-Maria Arena,0.0
-Pascal Arimont,44.0
-Hugues Bayet,0.0
-Ivo Belet,59.0
-Mark Demesmaeker,60.0
-Gérard Deprez,75.0
-Philippe Lamberts,55.0
-Louis Michel,71.0
-Ralph Packet,0.0
-Frédérique Ries,59.0
-Claude Rolin,61.0
-Bart Staes,60.0
-Helga Stevens,50.0
-Marc Tarabella,56.0
-Anneleen Van Bossuyt,39.0
-Kathleen Van Brempt,49.0
-Tom Vandenkendelaere,34.0
-Hilde Vautmans,0.0
-Guy Verhofstadt,0.0
-Lieve Wierinck,61.0
-Asim Ademov,50.0
-Nedzhmi Ali,46.0
-Nikolay Barekov,46.0
-Angel Dzhambazki,0.0
-Filiz Hyusmenova,52.0
-Peter Kouroumbashev,0.0
-Andrey Kovatchev,51.0
-Ilhan Kyuchyuk,33.0
-Svetoslav Hristov Malinov,51.0
-Eva Maydell,33.0
-Iskra Mihaylova,61.0
-Momchil Nekov,4.0
-Andrey Novakov,30.0
-Georgi Pirinski,70.0
-Emil Radev,0.0
-Sergei Stanishev,52.0
-Vladimir Urutchev,64.0
-Biljana Borzan,47.0
-Ivan Jakovčić,61.0
-Ivana Maletić,45.0
-Marijana Petir,0.0
-Tonino Picula,57.0
-Jozo Radoš,62.0
-Davor Škrlec,56.0
-Dubravka Šuica,61.0
-Ivica Tolić,0.0
-Ruža Tomašić,60.0
-Željana Zovko,49.0
-Lefteris Christoforou,0.0
-Takis Hadjigeorgiou,62.0
-Costas Mavrides,56.0
-Demetris Papadakis,0.0
-Neoklis Sylikiotis,60.0
-Eleni Theocharous,65.0
-Dita Charanzová,43.0
-Martina Dlabajová,42.0
-Petr Ježek,53.0
-Jan Keller,5.0
-Jaromír Kohlíček,66.0
-Kateřina Konečná,38.0
-Jiří Maštálka,63.0
-Luděk Niedermayer,53.0
-Jiří Payne,0.0
-Pavel Poc,0.0
-Miroslav Poche,40.0
-Stanislav Polčák,39.0
-Jiří Pospíšil,0.0
-Olga Sehnalová,0.0
-Michaela Šojdrová,55.0
-Jaromír Štětina,75.0
-Pavel Svoboda,56.0
-Pavel Telička,53.0
-Evžen Tošenovský,63.0
-Jan Zahradil,0.0
-Tomáš Zdechovský,39.0
-Margrete Auken,74.0
-Bendt Bendtsen,65.0
-Ole Christensen,63.0
-Jørn Dohrmann,50.0
-Rina Ronja Kari,34.0
-Rikke-Louise Karlsson,53.0
-Jeppe Kofod,45.0
-Morten Løkkegaard,54.0
-Morten Messerschmidt,38.0
-Morten Helveg Petersen,52.0
-Jens Rohde,48.0
-Christel Schaldemose,51.0
-Anders Primdahl Vistisen,31.0
-Igor Gräzin,66.0
-Tunne Kelam,82.0
-Ivari Padar,54.0
-Urmas Paet,44.0
-Indrek Tarand,55.0
-Yana Toom,52.0
-Jussi Halla-Aho,47.0
-Heidi Hautala,63.0
-Liisa Jaakonsaari,73.0
-Anneli Jäätteenmäki,64.0
-Elsi Katainen,52.0
-Miapetra Kumpula-Natri,46.0
-Merja Kyllönen,42.0
-Sirpa Pietikäinen,59.0
-Pirkko Ruohonen-Lerner,62.0
-Petri Sarvamaa,58.0
-Nils Torvalds,73.0
-Mirja Vehkaperä,42.0
-Henna Virkkunen,46.0
-Michèle Alliot-Marie,0.0
-Eric Andrieu,0.0
-Marie-Christine Arnautu,66.0
-Jean Arthuis,74.0
-Guillaume Balas,0.0
-Nicolas Bay,41.0
-Pervenche Berès,62.0
-Joëlle Bergeron,69.0
-Dominique Bilde,65.0
-Marie-Christine Boutonnet,70.0
-José Bové,65.0
-Steeve Briois,46.0
-Alain Cadec,65.0
-Jean-Marie Cavada,79.0
-Aymeric Chauprade,50.0
-Jacques Colombier,0.0
-Thierry Cornillet,67.0
-Arnaud Danjean,48.0
-Michel Dantin,59.0
-Rachida Dati,53.0
-Angélique Delahaye,0.0
-Karima Delli,40.0
-Geoffroy Didier,0.0
-Mireille DOrnano,0.0
-Pascal Durand,58.0
-Karine Gloanec Maurin,0.0
-Sylvie Goddyn,54.0
-Bruno Gollnisch,69.0
-Nathalie Griesbeck,62.0
-Françoise Grossetête,72.0
-Sylvie Guillaume,56.0
-Brice Hortefeux,60.0
-Yannick Jadot,51.0
-Jean-François Jalkh,61.0
-France Jamet,57.0
-Eva Joly,75.0
-Marc Joulaud,51.0
-Philippe Juvin,55.0
-Patricia Lalonde,0.0
-Alain Lamassoure,75.0
-Jérôme Lavrilleux,0.0
-Patrick Le Hyaric,62.0
-Jean-Marie Le Pen,90.0
-Gilles Lebreton,60.0
-Christelle Lechevalier,50.0
-Philippe Loiseau,61.0
-Louis-Joseph Manscour,74.0
-Dominique Martin,0.0
-Edouard Martin,0.0
-Emmanuel Maurel,45.0
-Joëlle Mélin,69.0
-Bernard Monot,56.0
-Sophie Montel,49.0
-Nadine Morano,55.0
-Elisabeth Morin-Chartier,71.0
-Renaud Muselier,59.0
-Younous Omarjee,49.0
-Gilles Pargneaux,62.0
-Vincent Peillon,58.0
-Florian Philippot,37.0
-Maurice Ponga,71.0
-Franck Proust,55.0
-Christine Revault DAllonnes Bonnefoy,0.0
-Dominique Riquet,72.0
-Michèle Rivasi,66.0
-Robert Rochefort,63.0
-Virginie Rozière,42.0
-Tokia Saïfi,59.0
-Anne Sander,0.0
-Jean-Luc Schaffhauser,63.0
-Isabelle Thomas,0.0
-Mylène Troszczynski,46.0
-Marie-Christine Vergiat,62.0
-Marie-Pierre Vieu,0.0
-Reimer Böge,67.0
-Elmar Brok,72.0
-Klaus Buchner,0.0
-Udo Bullmann,62.0
-Reinhard Bütikofer,66.0
-Daniel Caspary,42.0
-Birgit Collin-Langen,62.0
-Michael Cramer,69.0
-Albert Dess,71.0
-Michael Detjen,0.0
-Stefan Eck,4.0
-Christian Ehler,0.0
-Cornelia Ernst,62.0
-Ismail Ertug,43.0
-Markus Ferber,54.0
-Knut Fleckenstein,65.0
-Karl-Heinz Florenz,71.0
-Romeo Franz,0.0
-Michael Gahler,58.0
-Evelyne Gebhardt,65.0
-Stefan Gehrold,0.0
-Jens Geier,57.0
-Arne Gericke,54.0
-Sven Giegold,49.0
-Jens Gieseke,0.0
-Ingeborg Grässle,58.0
-Thomas Händel,65.0
-Rebecca Harms,62.0
-Martin Häusling,58.0
-Hans-Olaf Henkel,79.0
-Maria Heubuch,60.0
-Nadja Hirsch,40.0
-Iris Hoffmann,55.0
-Monika Hohlmeier,56.0
-Peter Jahr,59.0
-Petra Kammerevert,52.0
-Sylvia-Yvonne Kaufmann,64.0
-Ska Keller,37.0
-Wolf Klinz,77.0
-Dieter-Lebrecht Koch,66.0
-Arndt Kohn,38.0
-Bernd Kölmel,0.0
-Dietmar Köster,62.0
-Constanze Krehl,62.0
-Werner Kuhn,0.0
-Bernd Lange,63.0
-Werner Langen,69.0
-Jo Leinen,70.0
-Peter Liese,53.0
-Arne Lietz,42.0
-Norbert Lins,41.0
-Barbara Lochbihler,59.0
-Sabine Lösing,63.0
-Bernd Lucke,56.0
-Thomas Mann,0.0
-David McAllister,48.0
-Gesine Meissner,67.0
-Susanne Melior,60.0
-Jörg Meuthen,57.0
-Martina Michels,63.0
-Ulrike Müller,47.0
-Norbert Neuser,0.0
-Angelika Niebler,56.0
-Maria Noichl,52.0
-Markus Pieper,55.0
-Marcus Pretzell,45.0
-Gabriele Preuss,64.0
-Godelieve Quisthoudt-Rowohl,0.0
-Dennis Radtke,39.0
-Julia Reda,32.0
-Terry Reintke,31.0
-Ulrike Rodust,69.0
-Martin Schirdewan,43.0
-Helmut Scholz,0.0
-Sven Schulze,39.0
-Joachim Schuster,56.0
-Andreas Schwab,45.0
-Peter Simon,0.0
-Birgit Sippel,59.0
-Renate Sommer,60.0
-Martin Sonneborn,53.0
-Joachim Starbatty,0.0
-Ulrike Trebesius,0.0
-Helga Trüpel,60.0
-Sabine Verheyen,54.0
-Udo Voigt,66.0
-Axel Voss,55.0
-Manfred Weber,46.0
-Martina Werner,57.0
-Kerstin Westphal,56.0
-Rainer Wieland,62.0
-Hermann Winkler,55.0
-Babette Winter,0.0
-Tiemo Wölken,33.0
-Joachim Zeller,66.0
-Gabriele Zimmer,63.0
-Nikos Androulakis,40.0
-Nikolaos Chountis,65.0
-Kostas Chrysogonos,57.0
-Georgios Epitideios,66.0
-Lampros Fountoulis,58.0
-Giorgos Grammatikakis,79.0
-Eva Kaili,0.0
-Manolis Kefalogiannis,59.0
-Stelios Kouloglou,0.0
-Kostadinka Kuneva,0.0
-Miltiadis Kyrkos,59.0
-Georgios Kyrtsos,0.0
-Notis Marias,61.0
-Konstantinos Papadakis,46.0
-Dimitrios Papadimoulis,64.0
-Sofia Sakorafa,61.0
-Maria Spyraki,53.0
-Eleftherios Synadinos,63.0
-Elissavet Vozemberg-Vrionidi,62.0
-Theodoros Zagorakis,47.0
-Sotirios Zarianopoulos,4.0
-Zoltán Balczó,71.0
-Andrea Bocskor,40.0
-Andor Deli,41.0
-Tamás Deutsch,0.0
-Norbert Erdős,46.0
-Kinga Gál,48.0
-András Gyürk,46.0
-György Hölvényi,0.0
-Lívia Járóka,44.0
-Benedek Jávor,46.0
-Ádám Kósa,43.0
-Béla Kovács,81.0
-Tamás Meszerics,54.0
-Csaba Molnár,43.0
-Krisztina Morvai,55.0
-Péter Niedermüller,0.0
-György Schöpflin,79.0
-József Szájer,57.0
-Tibor Szanyi,0.0
-László Tőkés,66.0
-István Ujhelyi,44.0
-Lynn Boylan,42.0
-Matt Carthy,41.0
-Nessa Childers,62.0
-Deirdre Clune,59.0
-Brian Crowley,55.0
-Luke Ming Flanagan,47.0
-Marian Harkin,65.0
-Brian Hayes,49.0
-Seán Kelly,0.0
-Mairead McGuinness,59.0
-Liadh Ní Riada,52.0
-Isabella Adinolfi,40.0
-Marco Affronte,53.0
-Laura Agea,41.0
-Daniela Aiuto,0.0
-Tiziana Beghin,48.0
-Brando Benifei,33.0
-Goffredo Maria Bettini,0.0
-Mara Bizzotto,46.0
-Simona Bonafè,45.0
-Mario Borghezio,71.0
-David Borrelli,37.0
-Mercedes Bresso,74.0
-Renata Briano,0.0
-Nicola Caputo,0.0
-Fabio Massimo Castaldo,33.0
-Lorenzo Cesa,67.0
-Caterina Chinnici,64.0
-Salvatore Cicu,0.0
-Angelo Ciocca,43.0
-Alberto Cirio,46.0
-Sergio Gaetano Cofferati,0.0
-Lara Comi,0.0
-Ignazio Corrao,35.0
-Silvia Costa,0.0
-Andrea Cozzolino,56.0
-Rosa dAmato,0.0
-Nicola Danti,52.0
-Paolo De Castro,61.0
-Isabella De Monte,0.0
-Herbert Dorfmann,0.0
-Eleonora Evi,35.0
-Giuseppe Ferrandino,0.0
-Laura Ferrara,35.0
-Raffaele Fitto,49.0
-Eleonora Forenza,42.0
-Elisabetta Gardini,62.0
-Enrico Gasbarra,0.0
-Elena Gentile,0.0
-Michela Giuffrida,0.0
-Roberto Gualtieri,52.0
-Cécile Kashetu Kyenge,54.0
-Giovanni La Via,0.0
-Danilo Oscar Lancini,53.0
-Innocenzo Leontini,0.0
-Curzio Maltese,0.0
-Fulvio Martusciello,50.0
-Barbara Matera,37.0
-Stefano Maullu,0.0
-Giulia Moi,47.0
-Luigi Morgano,0.0
-Alessia Maria Mosca,43.0
-Alessandra Mussolini,56.0
-Pier Antonio Panzeri,63.0
-Massimo Paolucci,0.0
-Aldo Patriciello,61.0
-Piernicola Pedicini,49.0
-Pina Picierno,37.0
-Massimiliano Salini,46.0
-David-Maria Sassoli,0.0
-Elly Schlein,33.0
-Giancarlo Scottà,65.0
-Remo Sernagiotto,63.0
-Renato Soru,0.0
-Barbara Spinelli,72.0
-Antonio Tajani,65.0
-Dario Tamburrano,0.0
-Patrizia Toia,69.0
-Marco Valli,0.0
-Daniele Viotti,0.0
-Marco Zanni,32.0
-Flavio Zanonato,68.0
-Damiano Zoffoli,0.0
-Marco Zullo,40.0
-Iveta Grigule-Pēterse,54.0
-Sandra Kalniete,66.0
-Aleksejs Loskutovs,0.0
-Andrejs Mamikins,0.0
-Miroslavs Mitrofanovs,0.0
-Kārlis Šadurskis\xa0,0.0
-Inese Vaidere,66.0
-Roberts Zīle,60.0
-Laima Liucija Andrikienė,61.0
-Petras Auštrevičius,55.0
-Zigmantas Balčytis,65.0
-Vilija Blinkevičiūtė,59.0
-Antanas Guoga,45.0
-Valentinas Mazuronis,65.0
-Rolandas Paksas,62.0
-Bronis Ropė,0.0
-Algirdas Saudargas,70.0
-Valdemar Tomaševski,54.0
-Viktor Uspaskich,0.0
-Georges Bach,63.0
-Mady Delvaux,68.0
-Frank Engel,67.0
-Charles Goerens,67.0
-Christophe Hansen,37.0
-Tilly Metz,51.0
-David Casa,50.0
-Miriam Dalli,42.0
-Roberta Metsola,40.0
-Marlene Mizzi,64.0
-Alfred Sant,71.0
-Francis Zammit Dimech,64.0
-Bas Belder,72.0
-Marcel de Graaff,56.0
-Dennis de Jong,63.0
-Esther de Lange,44.0
-Bas Eickhout,42.0
-André Elissen,59.0
-Gerben-Jan Gerbrandy,0.0
-Anja Hazekamp,51.0
-Jan Huitema,0.0
-Sophie in t Veld,0.0
-Agnes Jongerius,58.0
-Jeroen Lenaers,34.0
-Anne-Marie Mineur,51.0
-Caroline Nagtegaal,0.0
-Kati Piri,39.0
-Judith Sargentini,45.0
-Marietje Schaake,40.0
-Annie Schreijer-Pierik,66.0
-Olaf Stuger,49.0
-Paul Tang,60.0
-Johannes Cornelis van Baalen,58.0
-Peter van Dalen,60.0
-Wim van de Camp,65.0
-Matthijs van Miltenburg,46.0
-Lambert van Nistelrooij,66.0
-Auke Zijlstra,54.0
-Michał Boni,0.0
-Jerzy Buzek,78.0
-Ryszard Czarnecki,56.0
-Edward Czesak,68.0
-Anna Elżbieta Fotyga,62.0
-Lidia Joanna Geringer de Oedenberg,61.0
-Adam Gierek,80.0
-Beata Gosiewska,48.0
-Andrzej Grzyb,62.0
-Krzysztof Hetman,44.0
-Czesław Hoc,0.0
-Danuta Maria Hübner,70.0
-Robert Jarosław Iwaszkiewicz,56.0
-Danuta Jazłowiecka,61.0
-Marek Jurek,58.0
-Jarosław Kalinowski,56.0
-Karol Karski,52.0
-Sławomir Kłosowski,55.0
-Agnieszka Kozłowska-Rajewicz,49.0
-Zdzisław Krasnodębski,0.0
-Urszula Krupa,69.0
-Barbara Kudrycka,63.0
-Zbigniew Kuźmiuk,62.0
-Ryszard Antoni Legutko,69.0
-Janusz Lewandowski,67.0
-Bogusław Liberadzki,70.0
-Elżbieta Katarzyna Łukacijewska,52.0
-Krystyna Łybacka,0.0
-Michał Marusik,67.0
-Jan Olbrycht,0.0
-Stanisław Ożóg,65.0
-Bolesław G. Piecha,64.0
-Mirosław Piotrowski,53.0
-Julia Pitera,0.0
-Marek Plura,48.0
-Tomasz Piotr Poręba,45.0
-Dariusz Rosati,72.0
-Jacek Saryusz-Wolski,70.0
-Czesław Adam Siekierski,66.0
-Bogusław Sonik,65.0
-Dobromir Sośnierz,0.0
-Adam Szejnfeld,60.0
-Kazimierz Michał Ujazdowski,54.0
-Róża Gräfin von Thun Und Hohenstein,0.0
-Jarosław Wałęsa,42.0
-Jadwiga Wiśniewska,55.0
-Bogdan Andrzej Zdrojewski,61.0
-Janusz Zemke,70.0
-Kosma Złotowski,55.0
-Stanisław Żółtek,62.0
-Tadeusz Zwiefka,64.0
-Francisco Assis,54.0
-Carlos Coelho,65.0
-Manuel dos Santos,75.0
-José Inácio Faria,0.0
-José Manuel Fernandes,0.0
-João Ferreira,0.0
-Ana Gomes,65.0
-António Marinho e Pinto,0.0
-Marisa Matias,43.0
-Nuno Melo,0.0
-Cláudia Monteiro De Aguiar,0.0
-João Pimenta Lopes,0.0
-Paulo Rangel,51.0
-Sofia Ribeiro,0.0
-Liliana Rodrigues,45.0
-Maria João Rodrigues,0.0
-Fernando Ruas,0.0
-Ricardo Serrão Santos,0.0
-Pedro Silva Pereira,56.0
-Miguel Viegas,0.0
-Carlos Zorrinho,59.0
-Victor Boştinaru,0.0
-Daniel Buda,49.0
-Cristian-Silviu Buşoi,41.0
-Andi Cristea,0.0
-Mircea Diaconu,69.0
-Damian Drăghici,48.0
-Doru-Claudian Frunzulică,0.0
-Maria Grapini,64.0
-Cătălin Sorin Ivan,40.0
-Monica Macovei,60.0
-Ramona Nicole Mănescu,0.0
-Marian-Jean Marinescu,66.0
-Sorin Moisă,0.0
-Siegfried Mureşan,37.0
-Dan Nica,58.0
-Norica Nicolai,61.0
-Ioan Mircea Paşcu,0.0
-Emilian Pavel,0.0
-Răzvan Popa,21.0
-Cristian Dan Preda,52.0
-Laurenţiu Rebega,43.0
-Daciana Octavia Sârbu,42.0
-Csaba Sógor,54.0
-Theodor Dumitru Stolojan,75.0
-Claudiu Ciprian Tănăsescu,0.0
-Claudia Țapardel,35.0
-Mihai Ţurcanu,0.0
-Traian Ungureanu,0.0
-Adina-Ioana Vălean,51.0
-Renate Weber,0.0
-Iuliu Winkler,55.0
-Maria Gabriela Zoană,0.0
-Monika Beňová,50.0
-Pál Csáky,0.0
-Eduard Kukan,0.0
-Vladimír Maňka,59.0
-Miroslav Mikolášik,66.0
-József Nagy,0.0
-Branislav Škripek,0.0
-Monika Smolková,62.0
-Ivan Štefanec,57.0
-Richard Sulík,51.0
-Anna Záborská,70.0
-Boris Zala,0.0
-Jana Žitňanská,44.0
-Franc Bogovič,56.0
-Tanja Fajon,47.0
-Alojz Peterle,70.0
-Igor Šoltes,54.0
-Patricija Šulin,0.0
-Romana Tomc,53.0
-Ivo Vajgl,76.0
-Milan Zver,56.0
-Clara Eugenia Aguilera García,0.0
-Marina Albiol Guzmán,36.0
-Inés Ayala Sender,61.0
-Pilar Ayuso,76.0
-Beatriz Becerra Basterrechea,52.0
-Xabier Benito Ziluaga,3.0
-Izaskun Bilbao Barandica,57.0
-José Blanco López,57.0
-Soledad Cabezón Ruiz,45.0
-Enrique Calvet Chambon,0.0
-Javier Couso Permuy,0.0
-Luis de Grandes Pascual,74.0
-Pilar del Castillo Vera,0.0
-Agustín Díaz De Mera García Consuegra,71.0
-Rosa Estaràs Ferragut,53.0
-Jonás Fernández,39.0
-Santiago Fisas Ayxelà,70.0
-Francesc Gambús,0.0
-Iratxe García Pérez,44.0
-Eider Gardiazabal Rubial,0.0
-María Teresa Giménez Barbat,63.0
-Tania González Peñas,36.0
-Esteban González Pons,54.0
-Enrique Guerrero Salom,0.0
-Sergio Gutiérrez Prieto,0.0
-Esther Herranz García,49.0
-Carlos Iturgaiz,53.0
-Ramón Jáuregui Atondo,70.0
-Teresa Jiménez-Becerril Barrio,57.0
-Verónica Lope Fontagné,0.0
-Javi López,0.0
-Juan Fernando López Aguilar,57.0
-Paloma López Bermejo,0.0
-Antonio López-Istúriz White,48.0
-Florent Marcellesi,0.0
-Gabriel Mato,0.0
-Francisco José Millán Mon,64.0
-Ana Miranda,0.0
-Javier Nart,71.0
-Maite Pagazaurtundúa Ruiz,53.0
-Carolina Punset,48.0
-Inmaculada Rodríguez-Piñero Fernández,61.0
-José Ignacio Salafranca Sánchez-Neyra,63.0
-Lola Sánchez Caldentey,41.0
-Maria Lidia Senra Rodríguez,60.0
-Jordi Solé,0.0
-Josep-Maria Terricabras,72.0
-Estefanía Torres Martínez,4.0
-Ramon Tremosa I Balcells,0.0
-Miguel Urbán Crespo,39.0
-Ernest Urtasun,37.0
-Ramón Luis Valcárcel Siso,64.0
-Elena Valenciano,58.0
-Ángela Vallina,0.0
-Max Andersson,0.0
-Malin Björk,46.0
-Anna Maria Corazza Bildt,56.0
-Jakop Dalunde,35.0
-Linnéa Engström,37.0
-Fredrick Federley,40.0
-Christofer Fjellner,42.0
-Aleksander Gabelic,0.0
-Jytte Guteland,39.0
-Anna Hedh,52.0
-Gunnar Hökmark,66.0
-Olle Ludvigsson,70.0
-Peter Lundgren,0.0
-Soraya Post,62.0
-Jasenko Selimovic,51.0
-Anders Sellström,0.0
-Marita Ulvskog,67.0
-Bodil Valero,60.0
-Cecilia Wikström,53.0
-Kristina Winberg,53.0
-William (The Earl Of) Dartmouth,0.0
-John Stuart Agnew,69.0
-Tim Aker,33.0
-Lucy Anderson,0.0
-Martina Anderson,56.0
-Jonathan Arnott,38.0
-Richard Ashworth,71.0
-Janice Atkinson,56.0
-Amjad Bashir,66.0
-Gerard Batten,64.0
-Catherine Bearder,70.0
-Louise Bours,50.0
-Paul Brannen,56.0
-Jonathan Bullock,56.0
-David Campbell Bannerman,58.0
-James Carver,49.0
-David Coburn,49.0
-Jane Collins,57.0
-Richard Corbett,64.0
-Daniel Dalton,44.0
-Seb Dance,0.0
-Nirj Deva,70.0
-Diane Dodds,60.0
-Bill Etheridge,49.0
-Jill Evans,0.0
-Nigel Farage,54.0
-Raymond Finch,55.0
-John Flack,0.0
-Jacqueline Foster,0.0
-Ashley Fox,49.0
-Neena Gill,62.0
-Nathan Gill,45.0
-Julie Girling,62.0
-Theresa Griffin,56.0
-Daniel Hannan,47.0
-Mary Honeyball,66.0
-Mike Hookem,65.0
-John Howarth,60.0
-Ian Hudghton,67.0
-Diane James,59.0
-Syed Kamall,52.0
-Sajjad Karim,48.0
-Wajid Khan,0.0
-Jude Kirton-Darling,41.0
-Jean Lambert,68.0
-David Martin,0.0
-Rupert Matthews,57.0
-Alex Mayer,37.0
-Linda McAvan,56.0
-Emma Mcclarkin,0.0
-Anthea Mcintyre,0.0
-Baroness Nosheena Mobarik,0.0
-Clare Moody,53.0
-Claude Moraes,53.0
-James Nicholson,0.0
-Paul Nuttall,42.0
-Patrick OFlynn,0.0
-Rory Palmer,37.0
-Margot Parker,75.0
-John Procter,52.0
-Julia Reid,66.0
-Molly Scott Cato,55.0
-Jill Seymour,60.0
-Siôn Simon,50.0
-Alyn Smith,45.0
-Kay Swinburne,51.0
-Charles Tannock,61.0
-Keith Taylor,65.0
-Geoffrey Van Orden,73.0
-Derek Vaughan,0.0
-Julie Ward,61.0
-Steven Woolfe,51.0
+﻿Full Name,Wikidata code,Gender,DoB,Age,Old_Age
+Heinz K. Becker,Q89051,male,1950-06-29,68.0,68
+Eugen Freund,Q1372517,male,1951-04-15,67.0,67
+Karoline Graswander-Hainz,Q20656233,female,1974-02-02,45.0,45
+Karin Kadenbach,Q114290,female,1958-04-19,60.0,60
+Barbara Kappel,Q807496,female,1965-02-16,54.0,54
+Othmar Karas,Q85368,male,1957-12-24,61.0,61
+Lukas Mandl,Q1876930,nan,,,39
+Georg Mayer,Q16064658,nan,,,45
+Angelika Mlinar,Q524225,nan,,,48
+Franz Obermayr,Q86823,nan,,,66
+Evelyn Regner,Q87549,nan,,,53
+Michel Reimon,Q1930882,nan,,,47
+Paul Rübig,Q85374,nan,,,65
+Claudia Schmidt,Q1097772,nan,,,0
+Monika Vana,Q1944783,nan,,,49
+Harald Vilimsky,Q90244,nan,,,52
+Thomas Waitz,Q38057897,nan,,,0
+Josef Weidenholzer,Q86829,nan,,,69
+Gerolf Annemans,Q2294644,nan,,,60
+Maria Arena,Q6761015,nan,,,0
+Pascal Arimont,Q1614514,nan,,,44
+Hugues Bayet,Q3142509,nan,,,0
+Ivo Belet,Q280390,nan,,,59
+Mark Demesmaeker,Q2368415,nan,,,60
+Gérard Deprez,Q1399098,nan,,,75
+Philippe Lamberts,Q937002,nan,,,55
+Louis Michel,Q469352,nan,,,71
+Ralph Packet,Q59247381,nan,,,0
+Frédérique Ries,Q458084,nan,,,59
+Claude Rolin,Q17067276,nan,,,61
+Bart Staes,Q809212,nan,,,60
+Helga Stevens,Q2359620,nan,,,50
+Marc Tarabella,Q1892853,nan,,,56
+Anneleen Van Bossuyt,Q18755697,nan,,,39
+Kathleen Van Brempt,Q15995,nan,,,49
+Tom Vandenkendelaere,Q18225970,nan,,,34
+Hilde Vautmans,Q2780443,nan,,,0
+Guy Verhofstadt,Q12978,nan,,,0
+Lieve Wierinck,Q3238348,nan,,,61
+Asim Ademov,Q45237464,nan,,,50
+Nedzhmi Ali,Q3137902,nan,,,46
+Nikolay Barekov,Q12288663,nan,,,46
+Angel Dzhambazki,Q12271852,nan,,,0
+Filiz Hyusmenova,Q446584,nan,,,52
+Peter Kouroumbashev,Q15987050,nan,,,0
+Andrey Kovatchev,Q4759190,nan,,,51
+Ilhan Kyuchyuk,Q17266806,nan,,,33
+Svetoslav Hristov Malinov,Q557071,nan,,,51
+Eva Maydell,Q17266811,nan,,,33
+Iskra Mihaylova,Q17143283,nan,,,61
+Momchil Nekov,Q17266745,nan,,,4
+Andrey Novakov,Q18575732,nan,,,30
+Georgi Pirinski,Q1509254,nan,,,70
+Emil Radev,Q17143079,nan,,,0
+Sergei Stanishev,Q202117,nan,,,52
+Vladimir Urutchev,Q121785,nan,,,64
+Biljana Borzan,Q11074254,nan,,,47
+Ivan Jakovčić,Q3109021,nan,,,61
+Ivana Maletić,Q13107505,nan,,,45
+Marijana Petir,Q982428,nan,,,0
+Tonino Picula,Q2617559,nan,,,57
+Jozo Radoš,Q3441723,nan,,,62
+Davor Škrlec,Q17315720,nan,,,56
+Dubravka Šuica,Q299667,nan,,,61
+Ivica Tolić,Q27600131,nan,,,0
+Ruža Tomašić,Q1260118,nan,,,60
+Željana Zovko,Q27666246,nan,,,49
+Lefteris Christoforou,Q16571128,nan,,,0
+Takis Hadjigeorgiou,Q545492,nan,,,62
+Costas Mavrides,Q17265935,nan,,,56
+Demetris Papadakis,Q17315553,nan,,,0
+Neoklis Sylikiotis,Q16330441,nan,,,60
+Eleni Theocharous,Q468077,nan,,,65
+Dita Charanzová,Q15870693,nan,,,43
+Martina Dlabajová,Q15870687,nan,,,42
+Petr Ježek,Q15817642,nan,,,53
+Jan Keller,Q3491839,nan,,,5
+Jaromír Kohlíček,Q1399081,nan,,,66
+Kateřina Konečná,Q12028942,nan,,,38
+Jiří Maštálka,Q1399066,nan,,,63
+Luděk Niedermayer,Q15742179,nan,,,53
+Jiří Payne,Q12025429,nan,,,0
+Pavel Poc,Q535283,nan,,,0
+Miroslav Poche,Q15730943,nan,,,40
+Stanislav Polčák,Q12055995,nan,,,39
+Jiří Pospíšil,Q962333,nan,,,0
+Olga Sehnalová,Q11797891,nan,,,0
+Michaela Šojdrová,Q12036669,nan,,,55
+Jaromír Štětina,Q3511688,nan,,,75
+Pavel Svoboda,Q7155774,nan,,,56
+Pavel Telička,Q1357170,nan,,,53
+Evžen Tošenovský,Q3510471,nan,,,63
+Jan Zahradil,Q159490,nan,,,0
+Tomáš Zdechovský,Q12059351,nan,,,39
+Margrete Auken,Q261120,nan,,,74
+Bendt Bendtsen,Q816805,nan,,,65
+Ole Christensen,Q1357367,nan,,,63
+Jørn Dohrmann,Q12320916,nan,,,50
+Rina Ronja Kari,Q12333503,nan,,,34
+Rikke-Louise Karlsson,Q17142887,nan,,,53
+Jeppe Kofod,Q1799046,nan,,,45
+Morten Løkkegaard,Q546215,nan,,,54
+Morten Messerschmidt,Q1338185,nan,,,38
+Morten Helveg Petersen,Q12327679,nan,,,52
+Jens Rohde,Q546246,nan,,,48
+Christel Schaldemose,Q455548,nan,,,51
+Anders Primdahl Vistisen,Q12301466,nan,,,31
+Igor Gräzin,Q5993313,nan,,,66
+Tunne Kelam,Q1345946,nan,,,82
+Ivari Padar,Q1398025,nan,,,54
+Urmas Paet,Q58100,nan,,,44
+Indrek Tarand,Q930324,nan,,,55
+Yana Toom,Q12379326,nan,,,52
+Jussi Halla-Aho,Q3040284,nan,,,47
+Heidi Hautala,Q256001,nan,,,63
+Liisa Jaakonsaari,Q460600,nan,,,73
+Anneli Jäätteenmäki,Q229517,nan,,,64
+Elsi Katainen,Q11857612,nan,,,52
+Miapetra Kumpula-Natri,Q5413481,nan,,,46
+Merja Kyllönen,Q460676,nan,,,42
+Sirpa Pietikäinen,Q456901,nan,,,59
+Pirkko Ruohonen-Lerner,Q7198040,nan,,,62
+Petri Sarvamaa,Q918818,nan,,,58
+Nils Torvalds,Q949046,nan,,,73
+Mirja Vehkaperä,Q11882986,nan,,,42
+Henna Virkkunen,Q2983767,nan,,,46
+Michèle Alliot-Marie,Q58130,nan,,,0
+Eric Andrieu,Q287849,nan,,,0
+Marie-Christine Arnautu,Q3291630,nan,,,66
+Jean Arthuis,Q528462,nan,,,74
+Guillaume Balas,Q16916373,nan,,,0
+Nicolas Bay,Q3340073,nan,,,41
+Pervenche Berès,Q240740,nan,,,62
+Joëlle Bergeron,Q17174767,nan,,,69
+Dominique Bilde,Q17174898,nan,,,65
+Marie-Christine Boutonnet,Q17175186,nan,,,70
+José Bové,Q5819,nan,,,65
+Steeve Briois,Q3497810,nan,,,46
+Alain Cadec,Q1404258,nan,,,65
+Jean-Marie Cavada,Q167019,nan,,,79
+Aymeric Chauprade,Q793139,nan,,,50
+Jacques Colombier,Q6120507,nan,,,0
+Thierry Cornillet,Q3524195,nan,,,67
+Arnaud Danjean,Q444504,nan,,,48
+Michel Dantin,Q546722,nan,,,59
+Rachida Dati,Q27182,nan,,,53
+Angélique Delahaye,Q17128240,nan,,,0
+Karima Delli,Q433637,nan,,,40
+Geoffroy Didier,Q3101123,nan,,,0
+Mireille DOrnano,Q17171641,nan,,,0
+Pascal Durand,Q3367388,nan,,,58
+Karine Gloanec Maurin,Q15963771,nan,,,0
+Sylvie Goddyn,Q16948142,nan,,,54
+Bruno Gollnisch,Q463260,nan,,,69
+Nathalie Griesbeck,Q461446,nan,,,62
+Françoise Grossetête,Q461433,nan,,,72
+Sylvie Guillaume,Q439991,nan,,,56
+Brice Hortefeux,Q502972,nan,,,60
+Yannick Jadot,Q441791,nan,,,51
+Jean-François Jalkh,Q3165682,nan,,,61
+France Jamet,Q5478286,nan,,,57
+Eva Joly,Q464116,nan,,,75
+Marc Joulaud,Q3288141,nan,,,51
+Philippe Juvin,Q445705,nan,,,55
+Patricia Lalonde,Q30105230,nan,,,0
+Alain Lamassoure,Q777954,nan,,,75
+Jérôme Lavrilleux,Q16948153,nan,,,0
+Patrick Le Hyaric,Q981486,nan,,,62
+Jean-Marie Le Pen,Q7177,nan,,,90
+Gilles Lebreton,Q16549460,nan,,,60
+Christelle Lechevalier,Q30987342,nan,,,50
+Philippe Loiseau,Q7184853,nan,,,61
+Louis-Joseph Manscour,Q3260652,nan,,,74
+Dominique Martin,Q17349494,nan,,,0
+Edouard Martin,Q3579956,nan,,,0
+Emmanuel Maurel,Q3052795,nan,,,45
+Joëlle Mélin,Q17155333,nan,,,69
+Bernard Monot,Q16980202,nan,,,56
+Sophie Montel,Q7563041,nan,,,49
+Nadine Morano,Q3334944,nan,,,55
+Elisabeth Morin-Chartier,Q439986,nan,,,71
+Renaud Muselier,Q3424934,nan,,,59
+Younous Omarjee,Q2542770,nan,,,49
+Gilles Pargneaux,Q546370,nan,,,62
+Vincent Peillon,Q960643,nan,,,58
+Florian Philippot,Q3074223,nan,,,37
+Maurice Ponga,Q544880,nan,,,71
+Franck Proust,Q1442460,nan,,,55
+Christine Revault DAllonnes Bonnefoy,Q16354684,nan,,,0
+Dominique Riquet,Q1238315,nan,,,72
+Michèle Rivasi,Q442810,nan,,,66
+Robert Rochefort,Q546285,nan,,,63
+Virginie Rozière,Q15696910,nan,,,42
+Tokia Saïfi,Q461385,nan,,,59
+Anne Sander,Q4768732,nan,,,0
+Jean-Luc Schaffhauser,Q16963365,nan,,,63
+Isabelle Thomas,Q3155046,nan,,,0
+Mylène Troszczynski,Q16963316,nan,,,46
+Marie-Christine Vergiat,Q439694,nan,,,62
+Marie-Pierre Vieu,Q30341962,nan,,,0
+Reimer Böge,Q68044,nan,,,67
+Elmar Brok,Q71674,nan,,,72
+Klaus Buchner,Q105761,nan,,,0
+Udo Bullmann,Q449080,nan,,,62
+Reinhard Bütikofer,Q31236,nan,,,66
+Daniel Caspary,Q77761,nan,,,42
+Birgit Collin-Langen,Q511181,nan,,,62
+Michael Cramer,Q69674,nan,,,69
+Albert Dess,Q85528,nan,,,71
+Michael Detjen,Q47271098,nan,,,0
+Stefan Eck,Q2336011,nan,,,4
+Christian Ehler,Q74162,nan,,,0
+Cornelia Ernst,Q91526,nan,,,62
+Ismail Ertug,Q75194,nan,,,43
+Markus Ferber,Q85676,nan,,,54
+Knut Fleckenstein,Q104870,nan,,,65
+Karl-Heinz Florenz,Q78215,nan,,,71
+Romeo Franz,Q2165078,nan,,,0
+Michael Gahler,Q85537,nan,,,58
+Evelyne Gebhardt,Q74191,nan,,,65
+Stefan Gehrold,Q56751537,nan,,,0
+Jens Geier,Q95758,nan,,,57
+Arne Gericke,Q692424,nan,,,54
+Sven Giegold,Q84687,nan,,,49
+Jens Gieseke,Q1626720,nan,,,0
+Ingeborg Grässle,Q85551,nan,,,58
+Thomas Händel,Q96605,nan,,,65
+Rebecca Harms,Q62366,nan,,,62
+Martin Häusling,Q95895,nan,,,58
+Hans-Olaf Henkel,Q105564,nan,,,79
+Maria Heubuch,Q17117404,nan,,,60
+Nadja Hirsch,Q120859,nan,,,40
+Iris Hoffmann,Q1475495,nan,,,55
+Monika Hohlmeier,Q78415,nan,,,56
+Peter Jahr,Q88213,nan,,,59
+Petra Kammerevert,Q92274,nan,,,52
+Sylvia-Yvonne Kaufmann,Q74165,nan,,,64
+Ska Keller,Q71528,nan,,,37
+Wolf Klinz,Q85356,nan,,,77
+Dieter-Lebrecht Koch,Q78207,nan,,,66
+Arndt Kohn,Q28869827,nan,,,38
+Bernd Kölmel,Q16999699,nan,,,0
+Dietmar Köster,Q16999729,nan,,,62
+Constanze Krehl,Q71660,nan,,,62
+Werner Kuhn,Q119366,nan,,,0
+Bernd Lange,Q65437,nan,,,63
+Werner Langen,Q85545,nan,,,69
+Jo Leinen,Q63810,nan,,,70
+Peter Liese,Q85566,nan,,,53
+Arne Lietz,Q16943361,nan,,,42
+Norbert Lins,Q16999649,nan,,,41
+Barbara Lochbihler,Q74133,nan,,,59
+Sabine Lösing,Q90767,nan,,,63
+Bernd Lucke,Q823840,nan,,,56
+Thomas Mann,Q37030,nan,,,0
+David McAllister,Q62093,nan,,,48
+Gesine Meissner,Q90784,nan,,,67
+Susanne Melior,Q2369382,nan,,,60
+Jörg Meuthen,Q15907132,nan,,,57
+Martina Michels,Q1324719,nan,,,63
+Ulrike Müller,Q21497163,nan,,,47
+Norbert Neuser,Q104492,nan,,,0
+Angelika Niebler,Q74215,nan,,,56
+Maria Noichl,Q1112658,nan,,,52
+Markus Pieper,Q78202,nan,,,55
+Marcus Pretzell,Q17117405,nan,,,45
+Gabriele Preuss,Q16999706,nan,,,64
+Godelieve Quisthoudt-Rowohl,Q74186,nan,,,0
+Dennis Radtke,Q34674536,nan,,,39
+Julia Reda,Q15731842,nan,,,32
+Terry Reintke,Q1386500,nan,,,31
+Ulrike Rodust,Q124965,nan,,,69
+Martin Schirdewan,Q17124693,nan,,,43
+Helmut Scholz,Q6576103,nan,,,0
+Sven Schulze,Q17093506,nan,,,39
+Joachim Schuster,Q1499562,nan,,,56
+Andreas Schwab,Q78194,nan,,,45
+Peter Simon,Q2078356,nan,,,0
+Birgit Sippel,Q108736,nan,,,59
+Renate Sommer,Q75193,nan,,,60
+Martin Sonneborn,Q87485,nan,,,53
+Joachim Starbatty,Q89292,nan,,,0
+Ulrike Trebesius,Q17117406,nan,,,0
+Helga Trüpel,Q68016,nan,,,60
+Sabine Verheyen,Q91697,nan,,,54
+Udo Voigt,Q57447,nan,,,66
+Axel Voss,Q16530497,nan,,,55
+Manfred Weber,Q88866,nan,,,46
+Martina Werner,Q17117409,nan,,,57
+Kerstin Westphal,Q104881,nan,,,56
+Rainer Wieland,Q85543,nan,,,62
+Hermann Winkler,Q90995,nan,,,55
+Babette Winter,Q19274426,nan,,,0
+Tiemo Wölken,Q27903982,nan,,,33
+Joachim Zeller,Q95516,nan,,,66
+Gabriele Zimmer,Q77771,nan,,,63
+Nikos Androulakis,Q17116940,nan,,,40
+Nikolaos Chountis,Q3341844,nan,,,65
+Kostas Chrysogonos,Q17155824,nan,,,57
+Georgios Epitideios,Q17155826,nan,,,66
+Lampros Fountoulis,Q17305312,nan,,,58
+Giorgos Grammatikakis,Q17315716,nan,,,79
+Eva Kaili,Q2420152,nan,,,0
+Manolis Kefalogiannis,Q6751217,nan,,,59
+Stelios Kouloglou,Q14476134,nan,,,0
+Kostadinka Kuneva,Q12879609,nan,,,0
+Miltiadis Kyrkos,Q17121823,nan,,,59
+Georgios Kyrtsos,Q3765532,nan,,,0
+Notis Marias,Q17149323,nan,,,61
+Konstantinos Papadakis,Q26206989,nan,,,46
+Dimitrios Papadimoulis,Q3556414,nan,,,64
+Sofia Sakorafa,Q437648,nan,,,61
+Maria Spyraki,Q17155698,nan,,,53
+Eleftherios Synadinos,Q17155832,nan,,,63
+Elissavet Vozemberg-Vrionidi,Q16061914,nan,,,62
+Theodoros Zagorakis,Q296452,nan,,,47
+Sotirios Zarianopoulos,Q17155834,nan,,,4
+Zoltán Balczó,Q218872,nan,,,71
+Andrea Bocskor,Q17302280,nan,,,40
+Andor Deli,Q17315555,nan,,,41
+Tamás Deutsch,Q675333,nan,,,0
+Norbert Erdős,Q7050311,nan,,,46
+Kinga Gál,Q721647,nan,,,48
+András Gyürk,Q281433,nan,,,46
+György Hölvényi,Q17297615,nan,,,0
+Lívia Járóka,Q372388,nan,,,44
+Benedek Jávor,Q659323,nan,,,46
+Ádám Kósa,Q249551,nan,,,43
+Béla Kovács,Q1120007,nan,,,81
+Tamás Meszerics,Q12815307,nan,,,54
+Csaba Molnár,Q967118,nan,,,43
+Krisztina Morvai,Q270498,nan,,,55
+Péter Niedermüller,Q17315558,nan,,,0
+György Schöpflin,Q838349,nan,,,79
+József Szájer,Q731042,nan,,,57
+Tibor Szanyi,Q1294674,nan,,,0
+László Tőkés,Q535922,nan,,,66
+István Ujhelyi,Q253020,nan,,,44
+Lynn Boylan,Q16945605,nan,,,42
+Matt Carthy,Q16979858,nan,,,41
+Nessa Childers,Q525282,nan,,,62
+Deirdre Clune,Q1183377,nan,,,59
+Brian Crowley,Q651719,nan,,,55
+Luke Ming Flanagan,Q3778169,nan,,,47
+Marian Harkin,Q444372,nan,,,65
+Brian Hayes,Q4963981,nan,,,49
+Seán Kelly,Q1208164,nan,,,0
+Mairead McGuinness,Q467633,nan,,,59
+Liadh Ní Riada,Q16980118,nan,,,52
+Isabella Adinolfi,Q17170880,nan,,,40
+Marco Affronte,Q17140213,nan,,,53
+Laura Agea,Q17266638,nan,,,41
+Daniela Aiuto,Q17266642,nan,,,0
+Tiziana Beghin,Q17266640,nan,,,48
+Brando Benifei,Q17123340,nan,,,33
+Goffredo Maria Bettini,Q3772794,nan,,,0
+Mara Bizzotto,Q583545,nan,,,46
+Simona Bonafè,Q15623382,nan,,,45
+Mario Borghezio,Q1346627,nan,,,71
+David Borrelli,Q17314126,nan,,,37
+Mercedes Bresso,Q437151,nan,,,74
+Renata Briano,Q17175270,nan,,,0
+Nicola Caputo,Q17266645,nan,,,0
+Fabio Massimo Castaldo,Q17266683,nan,,,33
+Lorenzo Cesa,Q763148,nan,,,67
+Caterina Chinnici,Q16389751,nan,,,64
+Salvatore Cicu,"Q3946009
+",nan,,,0
+Angelo Ciocca,Q24951518,nan,,,43
+Alberto Cirio,Q17266671,nan,,,46
+Sergio Gaetano Cofferati,Q550363,nan,,,0
+Lara Comi,Q434308,nan,,,0
+Ignazio Corrao,Q16977486,nan,,,35
+Silvia Costa,Q776886,nan,,,0
+Andrea Cozzolino,Q493714,nan,,,56
+Rosa dAmato,Q17266637,nan,,,0
+Nicola Danti,Q17152415,nan,,,52
+Paolo De Castro,Q730921,nan,,,61
+Isabella De Monte,Q16039218,nan,,,0
+Herbert Dorfmann,Q1285166,nan,,,0
+Eleonora Evi,Q17266677,nan,,,35
+Giuseppe Ferrandino,Q51990731,nan,,,0
+Laura Ferrara,Q17152507,nan,,,35
+Raffaele Fitto,Q1060314,nan,,,49
+Eleonora Forenza,Q17024703,nan,,,42
+Elisabetta Gardini,Q3723227,nan,,,62
+Enrico Gasbarra,Q3725786,nan,,,0
+Elena Gentile,Q17152573,nan,,,0
+Michela Giuffrida,Q17140478,nan,,,0
+Roberto Gualtieri,Q948169,nan,,,52
+Cécile Kashetu Kyenge,Q8277714,nan,,,54
+Giovanni La Via,Q3767545,nan,,,0
+Danilo Oscar Lancini,Q51954730,nan,,,53
+Innocenzo Leontini,Q3798977,nan,,,0
+Curzio Maltese,Q682600,nan,,,0
+Fulvio Martusciello,Q17266672,nan,,,50
+Barbara Matera,Q453848,nan,,,37
+Stefano Maullu,Q20668367,nan,,,0
+Giulia Moi,Q17147314,nan,,,47
+Luigi Morgano,Q17266628,nan,,,0
+Alessia Maria Mosca,Q3610441,nan,,,43
+Alessandra Mussolini,Q285543,nan,,,56
+Pier Antonio Panzeri,Q1055562,nan,,,63
+Massimo Paolucci,Q15162091,nan,,,0
+Aldo Patriciello,Q1077655,nan,,,61
+Piernicola Pedicini,Q17266674,nan,,,49
+Pina Picierno,Q3905080,nan,,,37
+Massimiliano Salini,Q3851074,nan,,,46
+David-Maria Sassoli,Q2391857,nan,,,0
+Elly Schlein,Q16975892,nan,,,33
+Giancarlo Scottà,Q5558074,nan,,,65
+Remo Sernagiotto,Q7312043,nan,,,63
+Renato Soru,Q167404,nan,,,0
+Barbara Spinelli,Q3634690,nan,,,72
+Antonio Tajani,Q440710,nan,,,65
+Dario Tamburrano,Q17266680,nan,,,0
+Patrizia Toia,Q446679,nan,,,69
+Marco Valli,Q17266679,nan,,,0
+Daniele Viotti,Q17266679,nan,,,0
+Marco Zanni,Q17266678,nan,,,32
+Flavio Zanonato,Q3746528,nan,,,68
+Damiano Zoffoli,Q19395826,nan,,,0
+Marco Zullo,Q17305108,nan,,,40
+Iveta Grigule-Pēterse,Q11714349,nan,,,54
+Sandra Kalniete,Q236968,nan,,,66
+Aleksejs Loskutovs,Q4267253,nan,,,0
+Andrejs Mamikins,Q15846338,nan,,,0
+Miroslavs Mitrofanovs,Q1971334,nan,,,0
+Kārlis Šadurskis\xa0,Q11213537,nan,,,0
+Inese Vaidere,Q2662771,nan,,,66
+Roberts Zīle,Q969701,nan,,,60
+Laima Liucija Andrikienė,Q435717,nan,,,61
+Petras Auštrevičius,Q2080450,nan,,,55
+Zigmantas Balčytis,Q117150,nan,,,65
+Vilija Blinkevičiūtė,Q435394,nan,,,59
+Antanas Guoga,Q1509932,nan,,,45
+Valentinas Mazuronis,Q557932,nan,,,65
+Rolandas Paksas,Q296956,nan,,,62
+Bronis Ropė,Q501991,nan,,,0
+Algirdas Saudargas,Q556409,nan,,,70
+Valdemar Tomaševski,Q1502078,nan,,,54
+Viktor Uspaskich,Q1361333,nan,,,0
+Georges Bach,Q981276,nan,,,63
+Mady Delvaux,Q436989,nan,,,68
+Frank Engel,Q1226033,nan,,,67
+Charles Goerens,Q286466,nan,,,67
+Christophe Hansen,Q56460787,nan,,,37
+Tilly Metz,Q13105242,nan,,,51
+David Casa,Q578504,nan,,,50
+Miriam Dalli,Q17315715,nan,,,42
+Roberta Metsola,Q7351526,nan,,,40
+Marlene Mizzi,Q15207915,nan,,,64
+Alfred Sant,Q559545,nan,,,71
+Francis Zammit Dimech,Q16545829,nan,,,64
+Bas Belder,Q810605,nan,,,72
+Marcel de Graaff,Q2003427,nan,,,56
+Dennis de Jong,Q952646,nan,,,63
+Esther de Lange,Q439039,nan,,,44
+Bas Eickhout,Q809726,nan,,,42
+André Elissen,Q2042395,nan,,,59
+Gerben-Jan Gerbrandy,Q455179,nan,,,0
+Anja Hazekamp,Q2187156,nan,,,51
+Jan Huitema,Q17297655,nan,,,0
+Sophie in t Veld,Q446991,nan,,,0
+Agnes Jongerius,Q2745560,nan,,,58
+Jeroen Lenaers,Q17189402,nan,,,34
+Anne-Marie Mineur,Q17276525,nan,,,51
+Caroline Nagtegaal,Q21547522,nan,,,0
+Kati Piri,Q17143453,nan,,,39
+Judith Sargentini,Q456484,nan,,,45
+Marietje Schaake,Q433561,nan,,,40
+Annie Schreijer-Pierik,Q4769431,nan,,,66
+Olaf Stuger,Q329694,nan,,,49
+Paul Tang,Q14053382,nan,,,60
+Johannes Cornelis van Baalen,Q1583347,nan,,,58
+Peter van Dalen,Q543763,nan,,,60
+Wim van de Camp,Q952635,nan,,,65
+Matthijs van Miltenburg,Q17152490,nan,,,46
+Lambert van Nistelrooij,Q965552,nan,,,66
+Auke Zijlstra,Q771169,nan,,,54
+Michał Boni,Q535780,nan,,,0
+Jerzy Buzek,Q55910,nan,,,78
+Ryszard Czarnecki,Q253793,nan,,,56
+Edward Czesak,Q327692,nan,,,68
+Anna Elżbieta Fotyga,Q432190,nan,,,62
+Lidia Joanna Geringer de Oedenberg,Q455375,nan,,,61
+Adam Gierek,Q349492,nan,,,80
+Beata Gosiewska,Q11687634,nan,,,48
+Andrzej Grzyb,Q4759608,nan,,,62
+Krzysztof Hetman,Q11749266,nan,,,44
+Czesław Hoc,Q382842,nan,,,0
+Danuta Maria Hübner,Q242090,nan,,,70
+Robert Jarosław Iwaszkiewicz,Q17166407,nan,,,56
+Danuta Jazłowiecka,Q273578,nan,,,61
+Marek Jurek,Q246212,nan,,,58
+Jarosław Kalinowski,Q3672035,nan,,,56
+Karol Karski,Q932720,nan,,,52
+Sławomir Kłosowski,Q432195,nan,,,55
+Agnieszka Kozłowska-Rajewicz,Q9142309,nan,,,49
+Zdzisław Krasnodębski,Q8068111,nan,,,0
+Urszula Krupa,Q6271241,nan,,,69
+Barbara Kudrycka,Q450710,nan,,,63
+Zbigniew Kuźmiuk,Q6271307,nan,,,62
+Ryszard Antoni Legutko,Q3453988,nan,,,69
+Janusz Lewandowski,Q519793,nan,,,67
+Bogusław Liberadzki,Q4937928,nan,,,70
+Elżbieta Katarzyna Łukacijewska,Q432566,nan,,,52
+Krystyna Łybacka,Q276161,nan,,,0
+Michał Marusik,Q17166422,nan,,,67
+Jan Olbrycht,Q6149636,nan,,,0
+Stanisław Ożóg,Q256095,nan,,,65
+Bolesław G. Piecha,Q4939261,nan,,,64
+Mirosław Piotrowski,Q8273288,nan,,,53
+Julia Pitera,Q435118,nan,,,0
+Marek Plura,Q1773780,nan,,,48
+Tomasz Piotr Poręba,Q9359622,nan,,,45
+Dariusz Rosati,Q1166062,nan,,,72
+Jacek Saryusz-Wolski,Q921839,nan,,,70
+Czesław Adam Siekierski,Q6271409,nan,,,66
+Bogusław Sonik,Q4937934,nan,,,65
+Dobromir Sośnierz,Q48864253,nan,,,0
+Adam Szejnfeld,Q351039,nan,,,60
+Kazimierz Michał Ujazdowski,Q930336,nan,,,54
+Róża Gräfin von Thun Und Hohenstein,Q274125,nan,,,0
+Jarosław Wałęsa,Q1392390,nan,,,42
+Jadwiga Wiśniewska,Q644441,nan,,,55
+Bogdan Andrzej Zdrojewski,Q323398,nan,,,61
+Janusz Zemke,Q376870,nan,,,70
+Kosma Złotowski,Q925180,nan,,,55
+Stanisław Żółtek,Q9343571,nan,,,62
+Tadeusz Zwiefka,Q449484,nan,,,64
+Francisco Assis,Q656518,nan,,,54
+Carlos Coelho,Q61940713,nan,,,65
+Manuel dos Santos,Q3286800,nan,,,75
+José Inácio Faria,Q17024746,nan,,,0
+José Manuel Fernandes,Q10309880,nan,,,0
+João Ferreira,Q18064728,nan,,,0
+Ana Gomes,Q2844986,nan,,,65
+António Marinho e Pinto,Q611182,nan,,,0
+Marisa Matias,Q440355,nan,,,43
+Nuno Melo,Q10338216,nan,,,0
+Cláudia Monteiro De Aguiar,Q16537126,nan,,,0
+João Pimenta Lopes,Q22443735,nan,,,0
+Paulo Rangel,Q10346767,nan,,,51
+Sofia Ribeiro,Q10372930,nan,,,0
+Liliana Rodrigues,Q17270451,nan,,,45
+Maria João Rodrigues,Q3290963,nan,,,0
+Fernando Ruas,Q16545093,nan,,,0
+Ricardo Serrão Santos,Q16596372,nan,,,0
+Pedro Silva Pereira,Q2066785,nan,,,56
+Miguel Viegas,Q17270836,nan,,,0
+Carlos Zorrinho,Q15980671,nan,,,59
+Victor Boştinaru,Q3064873,nan,,,0
+Daniel Buda,Q12726380,nan,,,49
+Cristian-Silviu Buşoi,Q348993,nan,,,41
+Andi Cristea,Q17176889,nan,,,0
+Mircea Diaconu,Q1177587,nan,,,69
+Damian Drăghici,Q1158440,nan,,,48
+Doru-Claudian Frunzulică,Q16541015,nan,,,0
+Maria Grapini,Q15718586,nan,,,64
+Cătălin Sorin Ivan,Q11692492,nan,,,40
+Monica Macovei,Q2526083,nan,,,60
+Ramona Nicole Mănescu,Q3064927,nan,,,0
+Marian-Jean Marinescu,Q345794,nan,,,66
+Sorin Moisă,Q17315717,nan,,,0
+Siegfried Mureşan,Q17155237,nan,,,37
+Dan Nica,Q5214099,nan,,,58
+Norica Nicolai,Q7051233,nan,,,61
+Ioan Mircea Paşcu,Q348800,nan,,,0
+Emilian Pavel,Q18571787,nan,,,0
+Răzvan Popa,Q24000021,nan,,,21
+Cristian Dan Preda,Q3002861,nan,,,52
+Laurenţiu Rebega,Q17315718,nan,,,43
+Daciana Octavia Sârbu,Q274779,nan,,,42
+Csaba Sógor,Q551425,nan,,,54
+Theodor Dumitru Stolojan,Q126660,nan,,,75
+Claudiu Ciprian Tănăsescu,Q558350,nan,,,0
+Claudia Țapardel,Q17149761,nan,,,35
+Mihai Ţurcanu,Q19678257,nan,,,0
+Traian Ungureanu,Q9360698,nan,,,0
+Adina-Ioana Vălean,Q274739,nan,,,51
+Renate Weber,Q440689,nan,,,0
+Iuliu Winkler,Q520490,nan,,,55
+Maria Gabriela Zoană,Q47524630,nan,,,0
+Monika Beňová,Q441032,nan,,,50
+Pál Csáky,Q875200,nan,,,0
+Eduard Kukan,Q1289100,nan,,,0
+Vladimír Maňka,Q7938821,nan,,,59
+Miroslav Mikolášik,Q4597444,nan,,,66
+József Nagy,Q439713,nan,,,0
+Branislav Škripek,Q17315719,nan,,,0
+Monika Smolková,Q11785160,nan,,,62
+Ivan Štefanec,Q11714338,nan,,,57
+Richard Sulík,Q586798,nan,,,51
+Anna Záborská,Q455164,nan,,,70
+Boris Zala,Q3487103,nan,,,0
+Jana Žitňanská,Q11719711,nan,,,44
+Franc Bogovič,Q12016827,nan,,,56
+Tanja Fajon,Q462744,nan,,,47
+Alojz Peterle,Q282653,nan,,,70
+Igor Šoltes,Q17120046,nan,,,54
+Patricija Šulin,Q12798364,nan,,,0
+Romana Tomc,Q16089810,nan,,,53
+Ivo Vajgl,Q685146,nan,,,76
+Milan Zver,Q1628512,nan,,,56
+Clara Eugenia Aguilera García,Q5771098,nan,,,0
+Marina Albiol Guzmán,Q11691062,nan,,,36
+Inés Ayala Sender,Q270509,nan,,,61
+Pilar Ayuso,Q440669,nan,,,76
+Beatriz Becerra Basterrechea,Q17174668,nan,,,52
+Xabier Benito Ziluaga,Q21600336,nan,,,3
+Izaskun Bilbao Barandica,Q290539,nan,,,57
+José Blanco López,Q628418,nan,,,57
+Soledad Cabezón Ruiz,Q2841087,nan,,,45
+Enrique Calvet Chambon,Q18571764,nan,,,0
+Javier Couso Permuy,Q16581087,nan,,,0
+Luis de Grandes Pascual,Q607917,nan,,,74
+Pilar del Castillo Vera,Q292095,nan,,,0
+Agustín Díaz De Mera García Consuegra,Q399192,nan,,,71
+Rosa Estaràs Ferragut,Q4894822,nan,,,53
+Jonás Fernández,Q17155376,nan,,,39
+Santiago Fisas Ayxelà,Q3817070,nan,,,70
+Francesc Gambús,Q17155024,nan,,,0
+Iratxe García Pérez,Q459373,nan,,,44
+Eider Gardiazabal Rubial,Q3755512,nan,,,0
+María Teresa Giménez Barbat,Q16186683,nan,,,63
+Tania González Peñas,Q18046537,nan,,,36
+Esteban González Pons,Q2794709,nan,,,54
+Enrique Guerrero Salom,Q3817295,nan,,,0
+Sergio Gutiérrez Prieto,Q2273109,nan,,,0
+Esther Herranz García,Q3774834,nan,,,49
+Carlos Iturgaiz,Q3496866,nan,,,53
+Ramón Jáuregui Atondo,Q1684700,nan,,,70
+Teresa Jiménez-Becerril Barrio,Q9357304,nan,,,57
+Verónica Lope Fontagné,Q9368461,nan,,,0
+Javi López,Q1340550,nan,,,0
+Juan Fernando López Aguilar,Q941950,nan,,,57
+Paloma López Bermejo,Q17155380,nan,,,0
+Antonio López-Istúriz White,Q602944,nan,,,48
+Florent Marcellesi,Q5863104,nan,,,0
+Gabriel Mato,Q548970,nan,,,0
+Francisco José Millán Mon,Q3775015,nan,,,64
+Ana Miranda,Q4295529,nan,,,0
+Javier Nart,Q5928039,nan,,,71
+Maite Pagazaurtundúa Ruiz,Q9027010,nan,,,53
+Carolina Punset,Q19320457,nan,,,48
+Inmaculada Rodríguez-Piñero Fernández,Q4890847,nan,,,61
+José Ignacio Salafranca Sánchez-Neyra,Q960188,nan,,,63
+Lola Sánchez Caldentey,Q17280090,nan,,,41
+Maria Lidia Senra Rodríguez,Q12391819,nan,,,60
+Jordi Solé,Q11928368,nan,,,0
+Josep-Maria Terricabras,Q2554859,nan,,,72
+Estefanía Torres Martínez,Q19694726,nan,,,4
+Ramon Tremosa I Balcells,Q2171878,nan,,,0
+Miguel Urbán Crespo,Q19422218,nan,,,39
+Ernest Urtasun,Q15564103,nan,,,37
+Ramón Luis Valcárcel Siso,Q1021708,nan,,,64
+Elena Valenciano,Q288917,nan,,,58
+Ángela Vallina,Q14026403,nan,,,0
+Max Andersson,Q943868,nan,,,0
+Malin Björk,Q16162917,nan,,,46
+Anna Maria Corazza Bildt,Q441551,nan,,,56
+Jakop Dalunde,Q5616258,nan,,,35
+Linnéa Engström,Q18218433,nan,,,37
+Fredrick Federley,Q513301,nan,,,40
+Christofer Fjellner,Q666114,nan,,,42
+Aleksander Gabelic,Q5863217,nan,,,0
+Jytte Guteland,Q4988619,nan,,,39
+Anna Hedh,Q441608,nan,,,52
+Gunnar Hökmark,Q1357206,nan,,,66
+Olle Ludvigsson,Q3131703,nan,,,70
+Peter Lundgren,Q1356290,nan,,,0
+Soraya Post,Q16596117,nan,,,62
+Jasenko Selimovic,Q6172305,nan,,,51
+Anders Sellström,Q6172463,nan,,,0
+Marita Ulvskog,Q3115681,nan,,,67
+Bodil Valero,Q4942281,nan,,,60
+Cecilia Wikström,Q460539,nan,,,53
+Kristina Winberg,Q16623762,nan,,,53
+William (The Earl Of) Dartmouth,Q336057,nan,,,0
+John Stuart Agnew,Q1338217,nan,,,69
+Tim Aker,Q16751995,nan,,,33
+Lucy Anderson,Q6698176,nan,,,0
+Martina Anderson,Q4992676,nan,,,56
+Jonathan Arnott,Q6272449,nan,,,38
+Richard Ashworth,Q2036303,nan,,,71
+Janice Atkinson,Q16975648,nan,,,56
+Amjad Bashir,Q16976943,nan,,,66
+Gerard Batten,Q1510131,nan,,,64
+Catherine Bearder,Q441282,nan,,,70
+Louise Bours,Q16769678,nan,,,50
+Paul Brannen,Q16947962,nan,,,56
+Jonathan Bullock,Q35487495,nan,,,56
+David Campbell Bannerman,Q546231,nan,,,58
+James Carver,Q16979859,nan,,,49
+David Coburn,Q19693383,nan,,,49
+Jane Collins,Q16164894,nan,,,57
+Richard Corbett,Q652908,nan,,,64
+Daniel Dalton,Q5216911,nan,,,44
+Seb Dance,Q16979883,nan,,,0
+Nirj Deva,Q334019,nan,,,70
+Diane Dodds,Q116719,nan,,,60
+Bill Etheridge,Q16979907,nan,,,49
+Jill Evans,Q272522,nan,,,0
+Nigel Farage,Q318471,nan,,,54
+Raymond Finch,Q7297473,nan,,,55
+John Flack,Q6233365,nan,,,0
+Jacqueline Foster,Q463699,nan,,,0
+Ashley Fox,Q457673,nan,,,49
+Neena Gill,Q6986880,nan,,,62
+Nathan Gill,Q16945593,nan,,,45
+Julie Girling,Q463480,nan,,,62
+Theresa Griffin,Q17013901,nan,,,56
+Daniel Hannan,Q974023,nan,,,47
+Mary Honeyball,Q469658,nan,,,66
+Mike Hookem,Q16979955,nan,,,65
+John Howarth,Q38577112,nan,,,60
+Ian Hudghton,Q1391098,nan,,,67
+Diane James,Q16751268,nan,,,59
+Syed Kamall,Q1891910,nan,,,52
+Sajjad Karim,Q741344,nan,,,48
+Wajid Khan,Q31210746,nan,,,0
+Jude Kirton-Darling,Q16563740,nan,,,41
+Jean Lambert,Q448543,nan,,,68
+David Martin,Q341384,nan,,,0
+Rupert Matthews,Q3453279,nan,,,57
+Alex Mayer,Q27680041,nan,,,37
+Linda McAvan,Q455522,nan,,,56
+Emma Mcclarkin,Q126452,nan,,,0
+Anthea Mcintyre,Q441543,nan,,,0
+Baroness Nosheena Mobarik,Q18211172,nan,,,0
+Clare Moody,Q16980094,nan,,,53
+Claude Moraes,Q1097007,nan,,,53
+James Nicholson,Q360387,nan,,,0
+Paul Nuttall,Q546131,nan,,,42
+Patrick OFlynn,Q16586580,nan,,,0
+Rory Palmer,Q32077841,nan,,,37
+Margot Parker,Q16980137,nan,,,75
+John Procter,Q16800255,nan,,,52
+Julia Reid,Q16976852,nan,,,66
+Molly Scott Cato,Q6896677,nan,,,55
+Jill Seymour,Q16976828,nan,,,60
+Siôn Simon,Q7533492,nan,,,50
+Alyn Smith,Q450298,nan,,,45
+Kay Swinburne,Q468023,nan,,,51
+Charles Tannock,Q706751,nan,,,61
+Keith Taylor,Q6385098,nan,,,65
+Geoffrey Van Orden,Q1503075,nan,,,73
+Derek Vaughan,Q1200134,nan,,,0
+Julie Ward,Q24015046,nan,,,61
+Steven Woolfe,Q17037921,nan,,,51
