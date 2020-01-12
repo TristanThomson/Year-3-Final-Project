@@ -1,15 +1,15 @@
 import re
 import pandas as pd
-import numpy as np
+# import numpy as np
 import wikipediaapi
-from datetime import datetime
+# from datetime import datetime
 from dateutil.parser import parse
 from dateutil.relativedelta import relativedelta
 from wikidata.client import Client
 
 
-def dateFromString(input):
-    s = re.sub(r'[^\w]', ' ', input)
+def dateFromString(a):
+    s = re.sub(r'[^\w]', ' ', a)
     try:
         return parse(s, fuzzy_with_tokens=True)[0].date()
     except:
@@ -33,7 +33,8 @@ def outputToCsv(outputName, df):
     fileName = outputName + ".csv"
     df.to_csv(fileName, index=False, encoding="utf-8-sig")
 
-def getWikiDataParam(ID,p):
+
+def getWikiDataParam(ID, p):
     client = Client()
     param = "#N/A"
     try:
@@ -41,9 +42,11 @@ def getWikiDataParam(ID,p):
     except:
         return param
     try:
-        a = ["politician","MEP","diplomat","servant","legislative","election","candidate","European","Parliament",
-             "minister","politic","syndicalist","political","economist","council","senator","activist","peer"]
-        if any(x.lower() in entity.description.texts["en"].lower() for x in a) or "Politiker" in entity.description.texts["de"].lower():
+        a = ["politician", "MEP", "diplomat", "servant", "legislative", "election", "candidate", "European",
+             "Parliament",
+             "minister", "politic", "syndicalist", "political", "economist", "council", "senator", "activist", "peer"]
+        if any(x.lower() in entity.description.texts["en"].lower() for x in a) or "Politiker" in \
+                entity.description.texts["de"].lower():
             prop = client.get(p)
             param = entity[prop]
             if p == 'P21':
@@ -59,25 +62,26 @@ def getWikiDataParam(ID,p):
 voteDate = dateFromString("26 March 2019")
 
 data = pd.read_csv("Mepnames.csv")
-data['Gender']= data['Gender'].astype(str)
+data['Gender'] = data['Gender'].astype(str)
 pdToList = list(data['Full Name'])
 
-print(data.head())
+# print(data.head())
+
 
 def main():
     for i in range(len(pdToList)):
         code = data.at[i, 'Wikidata code']
-        if data.at[i,'Gender'] == "#N/A" or data.at[i,'Age'] == 0:
-            data.at[i,'Gender'] = getWikiDataParam(code,"P21")
-            dob = getWikiDataParam(code,"P569")
+        if data.at[i, 'Gender'] == "#N/A" or data.at[i, 'Age'] == 0:
+            data.at[i, 'Gender'] = getWikiDataParam(code, "P21")
+            dob = getWikiDataParam(code, "P569")
             print(dob)
-            if(type(dob) == str):
+            if (type(dob) == str):
                 dob = dateFromString(dob)
-            data.at[i,'DoB'] = dob
+            data.at[i, 'DoB'] = dob
             difference_in_years = relativedelta(voteDate, dob).years
-            data.at[i,'Age'] = difference_in_years
+            data.at[i, 'Age'] = difference_in_years
         print(i)
-        if i%10 == 0:
+        if i % 10 == 0:
             outputToCsv("Mepnames", data)
     outputToCsv("Mepnames", data)
 

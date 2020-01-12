@@ -1,37 +1,37 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Gerard,Batten,United Kingdom,,AGAINST,United Kingdom Independence Party
-Auke,Zijlstra,Netherlands,,AGAINST,Partij voor de Vrijheid
-André,Elissen,Netherlands,,AGAINST,Partij voor de Vrijheid
-Dominique,Martin,France,,FOR,Rassemblement national
-Mara,Bizzotto,Italy,,AGAINST,Lega Nord
-Barbara,Kappel,Austria,,NOT PRESENT,Freiheitliche Partei Österreichs
-Marcel,de Graaff,Netherlands,,NOT PRESENT,Partij voor de Vrijheid
-Mario,Borghezio,Italy,,AGAINST,Lega Nord
-Giancarlo,Scottà,Italy,,AGAINST,Lega Nord
-Michał,Marusik,Poland,,AGAINST,Kongres Nowej Prawicy
-Christelle,Lechevalier,France,,FOR,Rassemblement national
-Dominique,Bilde,France,,FOR,Rassemblement national
-Gilles,Lebreton,France,,FOR,Rassemblement national/ Rassemblement Bleu Marine
-Steeve,Briois,France,,FOR,Rassemblement national
-Marco,Zanni,Italy,,AGAINST,Independent
-Philippe,Loiseau,France,,FOR,Rassemblement national
-Jacques,Colombier,France,,FOR,Rassemblement national
-Nicolas,Bay,France,,FOR,Rassemblement national
-Jean-François,Jalkh,France,,FOR,Rassemblement national
-Marcus,Pretzell,Germany,,AGAINST,Alternative for Deutschland
-Janice,Atkinson,United Kingdom,,NOT PRESENT,Independent
-Angelo,Ciocca,Italy,,AGAINST,Lega Nord
-France,Jamet,France,,FOR,Rassemblement national
-Franz,Obermayr,Austria,,ABSTAINED,Freiheitliche Partei Österreichs
-Olaf,Stuger,Netherlands,,AGAINST,Partij voor de Vrijheid
-Georg,Mayer,Austria,,ABSTAINED,Freiheitliche Partei Österreichs
-Danilo Oscar,Lancini,Italy,,NOT PRESENT,Lega Nord
-Marie-Christine,Boutonnet,France,,FOR,Rassemblement national
-Gerolf,Annemans,Belgium,,AGAINST,Vlaams Belang
-Marie-Christine,Arnautu,France,,FOR,Rassemblement national
-Stanisław,Żółtek,Poland,,AGAINST,Kongres Nowej Prawicy
-Jean-Luc,Schaffhauser,France,,FOR,Rassemblement bleu Marine
-Joëlle,Mélin,France,,FOR,Rassemblement national
-Mylène,Troszczynski,France,,FOR,Rassemblement national
-John Stuart,Agnew,United Kingdom,,AGAINST,United Kingdom Independence Party
-Harald,Vilimsky,Austria,,ABSTAINED,Freiheitliche Partei Österreichs
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Barbara,Kappel,Female,54.0,Austria,ENF,NOT PRESENT,Freiheitliche Partei Österreichs
+Georg,Mayer,Male,45.0,Austria,ENF,ABSTAINED,Freiheitliche Partei Österreichs
+Franz,Obermayr,Male,66.0,Austria,ENF,ABSTAINED,Freiheitliche Partei Österreichs
+Harald,Vilimsky,Male,52.0,Austria,ENF,ABSTAINED,Freiheitliche Partei Österreichs
+Gerolf,Annemans,male,60.0,Belgium,ENF,AGAINST,Vlaams Belang
+Marie-Christine,Arnautu,male,66.0,France,ENF,FOR,Rassemblement national
+Nicolas,Bay,male,41.0,France,ENF,FOR,Rassemblement national
+Dominique,Bilde,female,65.0,France,ENF,FOR,Rassemblement national
+Marie-Christine,Boutonnet,female,70.0,France,ENF,FOR,Rassemblement national
+Steeve,Briois,female,46.0,France,ENF,FOR,Rassemblement national
+Jacques,Colombier,male,67.0,France,ENF,FOR,Rassemblement national
+Jean-François,Jalkh,male,61.0,France,ENF,FOR,Rassemblement national
+France,Jamet,male,58.0,France,ENF,FOR,Rassemblement national
+Gilles,Lebreton,female,60.0,France,ENF,FOR,Rassemblement national/ Rassemblement Bleu Marine
+Christelle,Lechevalier,female,50.0,France,ENF,FOR,Rassemblement national
+Philippe,Loiseau,male,61.0,France,ENF,FOR,Rassemblement national
+Dominique,Martin,female,57.0,France,ENF,FOR,Rassemblement national
+Joëlle,Mélin,male,69.0,France,ENF,FOR,Rassemblement national
+Jean-Luc,Schaffhauser,male,63.0,France,ENF,FOR,Rassemblement bleu Marine
+Mylène,Troszczynski,female,46.0,France,ENF,FOR,Rassemblement national
+Marcus,Pretzell,male,45.0,Germany,ENF,AGAINST,Alternative for Deutschland
+Mara,Bizzotto,female,46.0,Italy,ENF,AGAINST,Lega Nord
+Mario,Borghezio,female,71.0,Italy,ENF,AGAINST,Lega Nord
+Angelo,Ciocca,female,43.0,Italy,ENF,AGAINST,Lega Nord
+Danilo Oscar,Lancini,male,53.0,Italy,ENF,NOT PRESENT,Lega Nord
+Giancarlo,Scottà,male,65.0,Italy,ENF,AGAINST,Lega Nord
+Marco,Zanni,female,32.0,Italy,ENF,AGAINST,Independent
+Marcel,de Graaff,male,56.0,Netherlands,ENF,NOT PRESENT,Partij voor de Vrijheid
+André,Elissen,male,59.0,Netherlands,ENF,AGAINST,Partij voor de Vrijheid
+Olaf,Stuger,male,49.0,Netherlands,ENF,AGAINST,Partij voor de Vrijheid
+Auke,Zijlstra,female,54.0,Netherlands,ENF,AGAINST,Partij voor de Vrijheid
+Michał,Marusik,male,67.0,Poland,ENF,AGAINST,Kongres Nowej Prawicy
+Stanisław,Żółtek,male,62.0,Poland,ENF,AGAINST,Kongres Nowej Prawicy
+John Stuart,Agnew,male,69.0,United Kingdom,ENF,AGAINST,United Kingdom Independence Party
+Janice,Atkinson,female,56.0,United Kingdom,ENF,NOT PRESENT,Independent
+Gerard,Batten,male,64.0,United Kingdom,ENF,AGAINST,United Kingdom Independence Party

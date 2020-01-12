@@ -1,0 +1,10 @@
+Age - Age is a major factor in how an MEP could vote. We can assume that a majority of older MEPs value traditional media over new-age media. 
+	This trend seems to reverse when looking at MEPs younger than the average.
+	Considering the directive favours traditional media, why did some of the older MEPs vote against the directive?
+
+Gender - gender does not seem to be a significant factor in how an MEP votes.
+
+Political Group - Is a major factor in how an MEP voted. More radical parties favour new media whereas less radical parties seem to favour traditional media, in particular the right (EPP).
+
+Location - Seems to be significant (polarising). The Eu13 (new members, mostly eastern-european countries), traditionally in favour of technology, voted more towards new media.
+	The eu15 (older members, more western countries), voted in favour of traditional media.

@@ -1,42 +1,42 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Marco,Zullo,Italy,,AGAINST,Movimento 5 Stelle
-Giulia,Moi,Italy,,ABSTAINED,Movimento 5 Stelle
-Bernard,Monot,France,,FOR,Rassemblement national
-Jörg,Meuthen,Germany,,AGAINST,Alternative für Deutschland
-Florian,Philippot,France,,NOT PRESENT,Rassemblement national
-Isabella,Adinolfi,Italy,,AGAINST,Movimento 5 Stelle
-Laura,Agea,Italy,,AGAINST,Movimento 5 Stelle
-Piernicola,Pedicini,Italy,,AGAINST,Movimento 5 Stelle
-Tiziana,Beghin,Italy,,AGAINST,Movimento 5 Stelle
-Fabio Massimo,Castaldo,Italy,,AGAINST,Movimento 5 Stelle
-Ignazio,Corrao,Italy,,AGAINST,Movimento 5 Stelle
-Robert Jarosław,Iwaszkiewicz,Poland,,AGAINST,KORWiN
-Eleonora,Evi,Italy,,AGAINST,Movimento 5 Stelle
-Dario,Tamburrano,Italy,,AGAINST,Movimento 5 Stelle
-Laura,Ferrara,Italy,,AGAINST,Movimento 5 Stelle
-Marco,Valli,Italy,,AGAINST,Movimento 5 Stelle
-Daniela,Aiuto,Italy,,AGAINST,Movimento 5 Stelle
-Rolandas,Paksas,Lithuania,,FOR,Partija Tvarka ir teisingumas
-Rosa,d'Amato,Italy,,AGAINST,Movimento 5 Stelle
-Nathan,Gill,United Kingdom,,AGAINST,United Kingdom Independence Party
-Paul,Nuttall,United Kingdom,,NOT PRESENT,United Kingdom Independence Party
-Mireille,D'Ornano,France,,FOR,Rassemblement national
-Raymond,Finch,United Kingdom,,NOT PRESENT,United Kingdom Independence Party
-Nigel,Farage,United Kingdom,,AGAINST,United Kingdom Independence Party
-Bill,Etheridge,United Kingdom,,AGAINST,United Kingdom Independence Party
-Jane,Collins,United Kingdom,,NOT PRESENT,United Kingdom Independence Party
-Jiří,Payne,Czech Republic,,AGAINST,Strana svobodných občanů
-David,Coburn,United Kingdom,,AGAINST,United Kingdom Independence Party
-Aymeric,Chauprade,France,,FOR,Les Français Libres
-James,Carver,United Kingdom,,AGAINST,Independent
-Jonathan,Bullock,United Kingdom,,AGAINST,United Kingdom Independence Party
-Joëlle,Bergeron,France,,FOR,Sans étiquette
-Louise,Bours,United Kingdom,,NOT PRESENT,United Kingdom Independence Party
-William,(The Earl Of) Dartmouth,United Kingdom,,AGAINST,United Kingdom Independence Party
-Tim,Aker,United Kingdom,,AGAINST,United Kingdom Independence Party
-Sylvie,Goddyn,France,,FOR,Rassemblement national
-Patrick,O'Flynn,United Kingdom,,AGAINST,United Kingdom Independence Party
-Jonathan,Arnott,United Kingdom,,AGAINST,United Kingdom Independence Party
-Jill,Seymour,United Kingdom,,AGAINST,United Kingdom Independence Party
-Margot,Parker,United Kingdom,,NOT PRESENT,United Kingdom Independence Party
-Julia,Reid,United Kingdom,,AGAINST,United Kingdom Independence Party
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Jiří,Payne,female,62.0,Czech Republic,EFDD,AGAINST,Strana svobodných občanů
+Joëlle,Bergeron,female,69.0,France,EFDD,FOR,Sans étiquette
+Aymeric,Chauprade,male,50.0,France,EFDD,FOR,Les Français Libres
+Mireille,D'Ornano,male,67.0,France,EFDD,FOR,Rassemblement national
+Sylvie,Goddyn,female,54.0,France,EFDD,FOR,Rassemblement national
+Bernard,Monot,male,56.0,France,EFDD,FOR,Rassemblement national
+Florian,Philippot,male,37.0,France,EFDD,NOT PRESENT,Rassemblement national
+Jörg,Meuthen,male,57.0,Germany,EFDD,AGAINST,Alternative für Deutschland
+Isabella,Adinolfi,female,40.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Laura,Agea,male,41.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Daniela,Aiuto,male,41.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Tiziana,Beghin,male,48.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Fabio Massimo,Castaldo,male,33.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Ignazio,Corrao,female,35.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Rosa,d'Amato,female,49.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Eleonora,Evi,female,35.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Laura,Ferrara,male,35.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Giulia,Moi,female,47.0,Italy,EFDD,ABSTAINED,Movimento 5 Stelle
+Piernicola,Pedicini,female,49.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Dario,Tamburrano,male,49.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Marco,Valli,male,33.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Marco,Zullo,male,40.0,Italy,EFDD,AGAINST,Movimento 5 Stelle
+Rolandas,Paksas,male,62.0,Lithuania,EFDD,FOR,Partija Tvarka ir teisingumas
+Robert Jarosław,Iwaszkiewicz,male,56.0,Poland,EFDD,AGAINST,KORWiN
+William,(The Earl Of) Dartmouth,female,69.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Tim,Aker,female,33.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Jonathan,Arnott,male,38.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Louise,Bours,female,50.0,United Kingdom,EFDD,NOT PRESENT,United Kingdom Independence Party
+Jonathan,Bullock,male,56.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+James,Carver,female,49.0,United Kingdom,EFDD,AGAINST,Independent
+David,Coburn,female,60.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Jane,Collins,female,57.0,United Kingdom,EFDD,NOT PRESENT,United Kingdom Independence Party
+Bill,Etheridge,male,49.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Nigel,Farage,female,54.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Raymond,Finch,male,55.0,United Kingdom,EFDD,NOT PRESENT,United Kingdom Independence Party
+Nathan,Gill,male,45.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Paul,Nuttall,male,42.0,United Kingdom,EFDD,NOT PRESENT,United Kingdom Independence Party
+Patrick,O'Flynn,male,53.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Margot,Parker,male,75.0,United Kingdom,EFDD,NOT PRESENT,United Kingdom Independence Party
+Julia,Reid,male,66.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party
+Jill,Seymour,female,60.0,United Kingdom,EFDD,AGAINST,United Kingdom Independence Party

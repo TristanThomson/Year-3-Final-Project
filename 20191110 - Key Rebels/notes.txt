@@ -17,6 +17,11 @@ import pandas as pd
 cols_to_use = [0,1,2,4,5,13]
 data = pd.read_csv("dataset.csv", usecols= cols_to_use, encoding='utf-8-sig')
 
+
+for testing:
+        # d = pd.DataFrame(data={'': list(a.keys()), '%': list(a.values())})
+        # outputToCsv(i, data)
+
 def demoPrint(data):
 	data_top = data.head()
 	return data_top

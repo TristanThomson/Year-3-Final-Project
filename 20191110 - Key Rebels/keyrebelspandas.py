@@ -8,6 +8,8 @@ def filterCountryRow(df,input):
 	return df[df.Country == input]
 
 def filterEUGroupRow(df,input):
+	print(type(input))
+	print(input)
 	return df[df.Political_Group == input]
 
 def filterNatGroupRow(df,input):
@@ -89,23 +91,26 @@ def findRebels(data,c):
 
 
 def main():
-	cols_to_use = [0,1,2,4,5,13]
-	data = pd.read_csv("dataset.csv", usecols= cols_to_use, encoding='utf-8-sig')
+	cols_to_use = [0,1,2,4,5,7,8,16]
+	data = pd.read_csv("data/dataset.csv", usecols= cols_to_use, encoding='utf-8-sig')
 
 	outputStr = ""
+	print("Find key rebels in dataset\n")
+	print("***********************************************")
 	euGroupInput = input("What EU Group to filter by? Type 'no' if no filter. ")
 	countryInput = input("What country to filter by? Type 'no' if no filter. ")
 	natGroupInput = input("What National Group to filter by? Type 'no' if no filter. ")
-	print("\n")
+	# print("\n")
+	print("***********************************************\n")
 
 	if(euGroupInput != "no" and type(euGroupInput) == str):
-		outputStr += euGroupInput+"_"
+		outputStr += euGroupInput
 		data = filterEUGroupRow(data,euGroupInput)
 	if(countryInput != "no" and type(countryInput) == str):
-		outputStr += countryInput+"_"
+		outputStr += "_"+countryInput
 		data = filterCountryRow(data,countryInput)
 	if(natGroupInput != "no" and type(natGroupInput) == str):
-		outputStr += natGroupInput
+		outputStr += "_"+natGroupInput
 		data = filterNatGroupRow(data,natGroupInput)
 
 	# find rebels (condition if they voted against?)

@@ -1,23 +1,23 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Jean-Marie,Le Pen,France,,NOT PRESENT,Rassemblement national
-Rikke-Louise,Karlsson,Denmark,,FOR,Independent
-Jacek,Saryusz-Wolski,Poland,,AGAINST,Platforma Obywatelska
-Lampros,Fountoulis,Greece,,FOR,Popular Association – Golden Dawn
-Georgios,Epitideios,Greece,,AGAINST - CORRECTED,Popular Association – Golden Dawn
-Mike,Hookem,United Kingdom,,AGAINST,United Kingdom Independence Party
-Béla,Kovács,Hungary,,NOT PRESENT,Jobbik Magyarországért Mozgalom
-Martin,Sonneborn,Germany,,AGAINST,Die PARTEI
-Krisztina,Morvai,Hungary,,NOT PRESENT,Jobbik Magyarországért Mozgalom
-Diane,Dodds,United Kingdom,,AGAINST,Democratic Unionist Party
-Bruno,Gollnisch,France,,FOR,Rassemblement national
-Diane,James,United Kingdom,,NOT PRESENT,Independent
-Udo,Voigt,Germany,,NOT PRESENT,Nationaldemokratische Partei Deutschlands
-Eleftherios,Synadinos,Greece,,FOR,Popular Association – Golden Dawn
-Steven,Woolfe,United Kingdom,,AGAINST,Independent
-Kazimierz Michał,Ujazdowski,Poland,,ABSTAINED - CORRECTED,Independent
-Dobromir,Sośnierz,Poland,,AGAINST,Wolność
-Konstantinos,Papadakis,Greece,,ABSTAINED,Communist Party of Greece
-David,Borrelli,Italy,,AGAINST,Movimento 5 Stelle
-Sophie,Montel,France,,FOR,Rassemblement national
-Sotirios,Zarianopoulos,Greece,,NOT PRESENT,Communist Party of Greece
-Zoltán,Balczó,Hungary,,AGAINST,Jobbik Magyarországért Mozgalom
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Rikke-Louise,Karlsson,male,53.0,Denmark,Non-attached,FOR,Independent
+Bruno,Gollnisch,female,69.0,France,Non-attached,FOR,Rassemblement national
+Jean-Marie,Le Pen,male,90.0,France,Non-attached,NOT PRESENT,Rassemblement national
+Sophie,Montel,female,49.0,France,Non-attached,FOR,Rassemblement national
+Martin,Sonneborn,female,53.0,Germany,Non-attached,AGAINST,Die PARTEI
+Udo,Voigt,female,66.0,Germany,Non-attached,NOT PRESENT,Nationaldemokratische Partei Deutschlands
+Georgios,Epitideios,male,66.0,Greece,Non-attached,AGAINST - CORRECTED,Popular Association – Golden Dawn
+Lampros,Fountoulis,female,58.0,Greece,Non-attached,FOR,Popular Association – Golden Dawn
+Konstantinos,Papadakis,male,43.0,Greece,Non-attached,ABSTAINED,Communist Party of Greece
+Eleftherios,Synadinos,female,63.0,Greece,Non-attached,FOR,Popular Association – Golden Dawn
+Sotirios,Zarianopoulos,male,58.0,Greece,Non-attached,NOT PRESENT,Communist Party of Greece
+Zoltán,Balczó,male,71.0,Hungary,Non-attached,AGAINST,Jobbik Magyarországért Mozgalom
+Béla,Kovács,male,59.0,Hungary,Non-attached,NOT PRESENT,Jobbik Magyarországért Mozgalom
+Krisztina,Morvai,male,55.0,Hungary,Non-attached,NOT PRESENT,Jobbik Magyarországért Mozgalom
+David,Borrelli,female,47.0,Italy,Non-attached,AGAINST,Movimento 5 Stelle
+Jacek,Saryusz-Wolski,male,70.0,Poland,Non-attached,AGAINST,Platforma Obywatelska
+Dobromir,Sośnierz,male,42.0,Poland,Non-attached,AGAINST,Wolność
+Kazimierz Michał,Ujazdowski,male,54.0,Poland,Non-attached,ABSTAINED - CORRECTED,Independent
+Diane,Dodds,female,60.0,United Kingdom,Non-attached,AGAINST,Democratic Unionist Party
+Mike,Hookem,male,65.0,United Kingdom,Non-attached,AGAINST,United Kingdom Independence Party
+Diane,James,male,59.0,United Kingdom,Non-attached,NOT PRESENT,Independent
+Steven,Woolfe,male,51.0,United Kingdom,Non-attached,AGAINST,Independent

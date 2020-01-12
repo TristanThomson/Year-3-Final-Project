@@ -1,53 +1,53 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Lola,Sánchez Caldentey,Spain,,AGAINST,PODEMOS
-Emmanuel,Maurel,France,,FOR,Parti socialiste
-Stefan,Eck,Germany,,AGAINST,Independent
-Miguel,Urbán Crespo,Spain,,AGAINST,PODEMOS
-Cornelia,Ernst,Germany,,AGAINST,DIE LINKE.
-Estefanía,Torres Martínez,Spain,,NOT PRESENT,PODEMOS
-Jaromír,Kohlíček,Czech Republic,,AGAINST,Komunistická strana Čech a Moravy
-Marie-Pierre,Vieu,France,,FOR,Front de Gauche
-Sabine,Lösing,Germany,,AGAINST,DIE LINKE.
-Kostadinka,Kuneva,Greece,,NOT PRESENT,Coalition of the Radical Left
-Maria Lidia,Senra Rodríguez,Spain,,AGAINST,Alternativa galega de esquerda en Europa
-Sofia,Sakorafa,Greece,,AGAINST,Independent
-Miguel,Viegas,Portugal,,AGAINST,Partido Comunista Português
-Marie-Christine,Vergiat,France,,AGAINST,Front de Gauche
-Ángela,Vallina,Spain,,NOT PRESENT,Izquierda Unida
-Eleonora,Forenza,Italy,,AGAINST,Lista Tsipras-L'Altra Europa
-Neoklis,Sylikiotis,Cyprus,,NOT PRESENT,Progressive Party of Working People - Left - New Forces
-Takis,Hadjigeorgiou,Cyprus,,AGAINST,Progressive Party of Working People - Left - New Forces
-Younous,Omarjee,France,,AGAINST,L'union pour les Outremer
-Kateřina,Konečná,Czech Republic,,AGAINST,Komunistická strana Čech a Moravy
-Jiří,Maštálka,Czech Republic,,AGAINST,Komunistická strana Čech a Moravy
-João,Ferreira,Portugal,,AGAINST,Partido Comunista Português
-João,Pimenta Lopes,Portugal,,AGAINST,Partido Comunista Português
-Malin,Björk,Sweden,,AGAINST,Vänsterpartiet
-Marisa,Matias,Portugal,,AGAINST,Bloco de Esquerda
-Thomas,Händel,Germany,,AGAINST,DIE LINKE.
-Martina,Anderson,United Kingdom,,AGAINST,Sinn Fein
-Dimitrios,Papadimoulis,Greece,,NOT PRESENT,Coalition of the Radical Left
-Anne-Marie,Mineur,Netherlands,,ABSTAINED,Socialistische Partij
-Curzio,Maltese,Italy,,NOT PRESENT,Lista Tsipras-L'Altra Europa
-Helmut,Scholz,Germany,,AGAINST,DIE LINKE.
-Kostas,Chrysogonos,Greece,,FOR,Coalition of the Radical Left
-Stelios,Kouloglou,Greece,,NOT PRESENT,Coalition of the Radical Left
-Luke Ming,Flanagan,Ireland,,AGAINST,Independent
-Rina Ronja,Kari,Denmark,,AGAINST,Folkebevægelsen mod EU
-Matt,Carthy,Ireland,,AGAINST,Sinn Féin
-Martin,Schirdewan,Germany,,AGAINST,DIE LINKE.
-Lynn,Boylan,Ireland,,AGAINST,Sinn Féin
-Xabier,Benito Ziluaga,Spain,,AGAINST,PODEMOS
-Gabriele,Zimmer,Germany,,AGAINST,DIE LINKE.
-Merja,Kyllönen,Finland,,FOR,Vasemmistoliitto
-Tania,González Peñas,Spain,,AGAINST,PODEMOS
-Javier,Couso Permuy,Spain,,AGAINST,Izquierda Unida
-Barbara,Spinelli,Italy,,AGAINST,Independent
-Marina,Albiol Guzmán,Spain,,AGAINST,Izquierda Unida
-Paloma,López Bermejo,Spain,,ABSTAINED,Izquierda Unida
-Nikolaos,Chountis,Greece,,AGAINST,Popular Unity
-Liadh,Ní Riada,Ireland,,NOT PRESENT,Sinn Féin
-Anja,Hazekamp,Netherlands,,AGAINST,Partij voor de Dieren
-Martina,Michels,Germany,,AGAINST,DIE LINKE.
-Patrick,Le Hyaric,France,,FOR,Front de Gauche
-Dennis,de Jong,Netherlands,,ABSTAINED,Socialistische Partij
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Takis,Hadjigeorgiou,male,62.0,Cyprus,GUE-NGL,AGAINST,Progressive Party of Working People - Left - New Forces
+Neoklis,Sylikiotis,male,60.0,Cyprus,GUE-NGL,NOT PRESENT,Progressive Party of Working People - Left - New Forces
+Jaromír,Kohlíček,female,66.0,Czech Republic,GUE-NGL,AGAINST,Komunistická strana Čech a Moravy
+Kateřina,Konečná,male,38.0,Czech Republic,GUE-NGL,AGAINST,Komunistická strana Čech a Moravy
+Jiří,Maštálka,male,63.0,Czech Republic,GUE-NGL,AGAINST,Komunistická strana Čech a Moravy
+Rina Ronja,Kari,male,34.0,Denmark,GUE-NGL,AGAINST,Folkebevægelsen mod EU
+Merja,Kyllönen,male,42.0,Finland,GUE-NGL,FOR,Vasemmistoliitto
+Patrick,Le Hyaric,female,62.0,France,GUE-NGL,FOR,Front de Gauche
+Emmanuel,Maurel,male,45.0,France,GUE-NGL,FOR,Parti socialiste
+Younous,Omarjee,female,49.0,France,GUE-NGL,AGAINST,L'union pour les Outremer
+Marie-Christine,Vergiat,female,62.0,France,GUE-NGL,AGAINST,Front de Gauche
+Marie-Pierre,Vieu,male,52.0,France,GUE-NGL,FOR,Front de Gauche
+Stefan,Eck,female,63.0,Germany,GUE-NGL,AGAINST,Independent
+Cornelia,Ernst,female,62.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Thomas,Händel,male,65.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Sabine,Lösing,male,63.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Martina,Michels,male,63.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Martin,Schirdewan,male,43.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Helmut,Scholz,male,64.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Gabriele,Zimmer,male,63.0,Germany,GUE-NGL,AGAINST,DIE LINKE.
+Nikolaos,Chountis,female,65.0,Greece,GUE-NGL,AGAINST,Popular Unity
+Kostas,Chrysogonos,male,57.0,Greece,GUE-NGL,FOR,Coalition of the Radical Left
+Stelios,Kouloglou,male,66.0,Greece,GUE-NGL,NOT PRESENT,Coalition of the Radical Left
+Kostadinka,Kuneva,male,54.0,Greece,GUE-NGL,NOT PRESENT,Coalition of the Radical Left
+Dimitrios,Papadimoulis,female,64.0,Greece,GUE-NGL,NOT PRESENT,Coalition of the Radical Left
+Sofia,Sakorafa,male,61.0,Greece,GUE-NGL,AGAINST,Independent
+Lynn,Boylan,male,42.0,Ireland,GUE-NGL,AGAINST,Sinn Féin
+Matt,Carthy,male,41.0,Ireland,GUE-NGL,AGAINST,Sinn Féin
+Luke Ming,Flanagan,female,47.0,Ireland,GUE-NGL,AGAINST,Independent
+Liadh,Ní Riada,male,52.0,Ireland,GUE-NGL,NOT PRESENT,Sinn Féin
+Eleonora,Forenza,female,42.0,Italy,GUE-NGL,AGAINST,Lista Tsipras-L'Altra Europa
+Curzio,Maltese,male,59.0,Italy,GUE-NGL,NOT PRESENT,Lista Tsipras-L'Altra Europa
+Barbara,Spinelli,male,72.0,Italy,GUE-NGL,AGAINST,Independent
+Dennis,de Jong,male,63.0,Netherlands,GUE-NGL,ABSTAINED,Socialistische Partij
+Anja,Hazekamp,female,51.0,Netherlands,GUE-NGL,AGAINST,Partij voor de Dieren
+Anne-Marie,Mineur,male,51.0,Netherlands,GUE-NGL,ABSTAINED,Socialistische Partij
+João,Ferreira,male,40.0,Portugal,GUE-NGL,AGAINST,Partido Comunista Português
+Marisa,Matias,male,43.0,Portugal,GUE-NGL,AGAINST,Bloco de Esquerda
+João,Pimenta Lopes,male,38.0,Portugal,GUE-NGL,AGAINST,Partido Comunista Português
+Miguel,Viegas,male,49.0,Portugal,GUE-NGL,AGAINST,Partido Comunista Português
+Marina,Albiol Guzmán,male,36.0,Spain,GUE-NGL,AGAINST,Izquierda Unida
+Xabier,Benito Ziluaga,male,30.0,Spain,GUE-NGL,AGAINST,PODEMOS
+Javier,Couso Permuy,male,50.0,Spain,GUE-NGL,AGAINST,Izquierda Unida
+Tania,González Peñas,female,36.0,Spain,GUE-NGL,AGAINST,PODEMOS
+Paloma,López Bermejo,female,57.0,Spain,GUE-NGL,ABSTAINED,Izquierda Unida
+Lola,Sánchez Caldentey,female,41.0,Spain,GUE-NGL,AGAINST,PODEMOS
+Maria Lidia,Senra Rodríguez,male,60.0,Spain,GUE-NGL,AGAINST,Alternativa galega de esquerda en Europa
+Estefanía,Torres Martínez,female,36.0,Spain,GUE-NGL,NOT PRESENT,PODEMOS
+Miguel,Urbán Crespo,male,39.0,Spain,GUE-NGL,AGAINST,PODEMOS
+Ángela,Vallina,male,59.0,Spain,GUE-NGL,NOT PRESENT,Izquierda Unida
+Malin,Björk,female,46.0,Sweden,GUE-NGL,AGAINST,Vänsterpartiet
+Martina,Anderson,male,56.0,United Kingdom,GUE-NGL,AGAINST,Sinn Fein

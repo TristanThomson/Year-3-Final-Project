@@ -1,53 +1,53 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Max,Andersson,Sweden,,AGAINST,Miljöpartiet de gröna
-Klaus,Buchner,Germany,,AGAINST,Ökologisch-Demokratische Partei
-Michel,Reimon,Austria,,AGAINST,Die Grünen - Die Grüne Alternative
-Indrek,Tarand,Estonia,,AGAINST,Sõltumatu
-Heidi,Hautala,Finland,,AGAINST,Vihreä liitto
-Alyn,Smith,United Kingdom,,AGAINST,Scottish National Party
-Jordi,Solé,Spain,,AGAINST,Esquerra Republicana de Catalunya
-Josep-Maria,Terricabras,Spain,,AGAINST,Esquerra Republicana de Catalunya
-Ana,Miranda,Spain,,NOT PRESENT,Bloque Nacionalista Galego
-Eva,Joly,France,,ABSTAINED,Europe écologie
-Linnéa,Engström,Sweden,,AGAINST,Miljöpartiet de gröna
-Michèle,Rivasi,France,,ABSTAINED,Europe écologie
-Jakop,Dalunde,Sweden,,AGAINST,Miljöpartiet de gröna
-Marco,Affronte,Italy,,AGAINST,Independent
-Igor,Šoltes,Slovenia,,AGAINST,Lista dr. Igorja Šoltesa
-José,Bové,France,,FOR,Europe écologie
-Keith,Taylor,United Kingdom,,AGAINST,Green Party
-Ernest,Urtasun,Spain,,AGAINST,Iniciativa per Catalunya Verds
-Tamás,Meszerics,Hungary,,AGAINST,Lehet Más A Politika
-Margrete,Auken,Denmark,,AGAINST,Socialistisk Folkeparti
-Yannick,Jadot,France,,ABSTAINED,Europe écologie
-Florent,Marcellesi,Spain,,AGAINST,EQUO
-Karima,Delli,France,,ABSTAINED,Europe écologie
-Pascal,Durand,France,,NOT PRESENT,Europe écologie
-Molly,Scott Cato,United Kingdom,,AGAINST,Green Party
-Benedek,Jávor,Hungary,,NOT PRESENT,Együtt 2014 - Párbeszéd Magyarországért
-Bart,Staes,Belgium,,FOR,Groen
-Reinhard,Bütikofer,Germany,,AGAINST,Bündnis 90/Die Grünen
-Terry,Reintke,Germany,,AGAINST,Bündnis 90/Die Grünen
-Judith,Sargentini,Netherlands,,AGAINST,GroenLinks
-Bas,Eickhout,Netherlands,,AGAINST,GroenLinks
-Jean,Lambert,United Kingdom,,AGAINST,Green Party
-Ska,Keller,Germany,,AGAINST,Bündnis 90/Die Grünen
-Tilly,Metz,Luxembourg,,AGAINST,Déi Gréng - Les Verts
-Julia,Reda,Germany,,AGAINST,Piratenpartei Deutschland
-Thomas,Waitz,Austria,,AGAINST,Die Grünen - Die Grüne Alternative
-Bodil,Valero,Sweden,,AGAINST,Miljöpartiet de gröna
-Maria,Heubuch,Germany,,FOR,Bündnis 90/Die Grünen
-Martin,Häusling,Germany,,AGAINST,Bündnis 90/Die Grünen
-Rebecca,Harms,Germany,,NOT PRESENT,Bündnis 90/Die Grünen
-Sven,Giegold,Germany,,AGAINST,Bündnis 90/Die Grünen
-Barbara,Lochbihler,Germany,,AGAINST,Bündnis 90/Die Grünen
-Bronis,Ropė,Lithuania,,AGAINST,Lietuvos valstiečių ir žaliųjų sąjunga
-Davor,Škrlec,Croatia,,AGAINST,Independent
-Romeo,Franz,Germany,,AGAINST,Bündnis 90/Die Grünen
-Philippe,Lamberts,Belgium,,AGAINST,Ecologistes Confédérés pour l'organisation de Luttes Originales
-Monika,Vana,Austria,,AGAINST,Die Grünen - Die Grüne Alternative
-Ian,Hudghton,United Kingdom,,AGAINST,Scottish National Party
-Jill,Evans,United Kingdom,,AGAINST,Plaid Cymru - Party of Wales
-Michael,Cramer,Germany,,NOT PRESENT,Bündnis 90/Die Grünen
-Helga,Trüpel,Germany,,FOR,Bündnis 90/Die Grünen
-Miroslavs,Mitrofanovs,Latvia,,AGAINST,Latvijas Krievu savienība
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Karima,Delli,male,40,France,Greens-EFA,ABSTAINED,Europe écologie
+Yannick,Jadot,male,51,France,Greens-EFA,ABSTAINED,Europe écologie
+Eva,Joly,male,75,France,Greens-EFA,ABSTAINED,Europe écologie
+Michèle,Rivasi,male,66,France,Greens-EFA,ABSTAINED,Europe écologie
+Michel,Reimon,Male,47,Austria,Greens-EFA,AGAINST,Die Grünen - Die Grüne Alternative
+Monika,Vana,Female,49,Austria,Greens-EFA,AGAINST,Die Grünen - Die Grüne Alternative
+Thomas,Waitz,Male,45,Austria,Greens-EFA,AGAINST,Die Grünen - Die Grüne Alternative
+Philippe,Lamberts,male,56,Belgium,Greens-EFA,AGAINST,Ecologistes Confédérés pour l'organisation de Luttes Originales
+Davor,Škrlec,male,56,Croatia,Greens-EFA,AGAINST,Independent
+Margrete,Auken,male,74,Denmark,Greens-EFA,AGAINST,Socialistisk Folkeparti
+Indrek,Tarand,male,55,Estonia,Greens-EFA,AGAINST,Sõltumatu
+Heidi,Hautala,male,63,Finland,Greens-EFA,AGAINST,Vihreä liitto
+Klaus,Buchner,male,78,Germany,Greens-EFA,AGAINST,Ökologisch-Demokratische Partei
+Reinhard,Bütikofer,male,66,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Romeo,Franz,female,52,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Sven,Giegold,male,49,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Martin,Häusling,male,58,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Ska,Keller,female,37,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Barbara,Lochbihler,female,59,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Julia,Reda,female,32,Germany,Greens-EFA,AGAINST,Piratenpartei Deutschland
+Terry,Reintke,female,31,Germany,Greens-EFA,AGAINST,Bündnis 90/Die Grünen
+Tamás,Meszerics,female,54,Hungary,Greens-EFA,AGAINST,Lehet Más A Politika
+Marco,Affronte,male,53,Italy,Greens-EFA,AGAINST,Independent
+Miroslavs,Mitrofanovs,female,52,Latvia,Greens-EFA,AGAINST,Latvijas Krievu savienība
+Bronis,Ropė,male,63,Lithuania,Greens-EFA,AGAINST,Lietuvos valstiečių ir žaliųjų sąjunga
+Tilly,Metz,female,51,Luxembourg,Greens-EFA,AGAINST,Déi Gréng - Les Verts
+Bas,Eickhout,male,42,Netherlands,Greens-EFA,AGAINST,GroenLinks
+Judith,Sargentini,female,45,Netherlands,Greens-EFA,AGAINST,GroenLinks
+Igor,Šoltes,male,54,Slovenia,Greens-EFA,AGAINST,Lista dr. Igorja Šoltesa
+Florent,Marcellesi,male,40,Spain,Greens-EFA,AGAINST,EQUO
+Jordi,Solé,male,42,Spain,Greens-EFA,AGAINST,Esquerra Republicana de Catalunya
+Josep-Maria,Terricabras,female,72,Spain,Greens-EFA,AGAINST,Esquerra Republicana de Catalunya
+Ernest,Urtasun,female,37,Spain,Greens-EFA,AGAINST,Iniciativa per Catalunya Verds
+Max,Andersson,male,45,Sweden,Greens-EFA,AGAINST,Miljöpartiet de gröna
+Jakop,Dalunde,female,35,Sweden,Greens-EFA,AGAINST,Miljöpartiet de gröna
+Linnéa,Engström,female,37,Sweden,Greens-EFA,AGAINST,Miljöpartiet de gröna
+Bodil,Valero,female,60,Sweden,Greens-EFA,AGAINST,Miljöpartiet de gröna
+Jill,Evans,male,59,United Kingdom,Greens-EFA,AGAINST,Plaid Cymru - Party of Wales
+Ian,Hudghton,male,67,United Kingdom,Greens-EFA,AGAINST,Scottish National Party
+Jean,Lambert,male,68,United Kingdom,Greens-EFA,AGAINST,Green Party
+Molly,Scott Cato,female,55,United Kingdom,Greens-EFA,AGAINST,Green Party
+Alyn,Smith,male,45,United Kingdom,Greens-EFA,AGAINST,Scottish National Party
+Keith,Taylor,female,65,United Kingdom,Greens-EFA,AGAINST,Green Party
+Bart,Staes,male,60,Belgium,Greens-EFA,FOR,Groen
+José,Bové,female,65,France,Greens-EFA,FOR,Europe écologie
+Maria,Heubuch,female,60,Germany,Greens-EFA,FOR,Bündnis 90/Die Grünen
+Helga,Trüpel,male,60,Germany,Greens-EFA,FOR,Bündnis 90/Die Grünen
+Pascal,Durand,female,58,France,Greens-EFA,NOT PRESENT,Europe écologie
+Michael,Cramer,male,69,Germany,Greens-EFA,NOT PRESENT,Bündnis 90/Die Grünen
+Rebecca,Harms,male,62,Germany,Greens-EFA,NOT PRESENT,Bündnis 90/Die Grünen
+Benedek,Jávor,male,46,Hungary,Greens-EFA,NOT PRESENT,Együtt 2014 - Párbeszéd Magyarországért
+Ana,Miranda,female,47,Spain,Greens-EFA,NOT PRESENT,Bloque Nacionalista Galego

@@ -1,76 +1,76 @@
-﻿First Name,Last Name,Country,EU Political Group,26 March 2019 Final Vote,National Political Group
-Marek,Jurek,Poland,,AGAINST,Prawica Rzeczypospolitej
-Tomasz Piotr,Poręba,Poland,,AGAINST,Prawo i Sprawiedliwość
-Jadwiga,Wiśniewska,Poland,,AGAINST,Prawo i Sprawiedliwość
-Morten,Messerschmidt,Denmark,,FOR,Dansk Folkeparti
-Kosma,Złotowski,Poland,,AGAINST,Prawo i Sprawiedliwość
-Czesław,Hoc,Poland,,AGAINST,Prawo i Sprawiedliwość
-Pirkko,Ruohonen-Lerner,Finland,,AGAINST,Perussuomalaiset
-Peter,van Dalen,Netherlands,,AGAINST,ChristenUnie
-Monica,Macovei,Romania,,AGAINST,Independent
-Branislav,Škripek,Slovakia,,AGAINST,OBYČAJNÍ ĽUDIA
-Mirosław,Piotrowski,Poland,,AGAINST,Independent
-Bolesław G.,Piecha,Poland,,AGAINST,Prawo i Sprawiedliwość
-Hans-Olaf,Henkel,Germany,,FOR,Liberal-Conservative Refomists
-Karol,Karski,Poland,,AGAINST,Prawo i Sprawiedliwość
-Sławomir,Kłosowski,Poland,,AGAINST,Prawo i Sprawiedliwość
-Ryszard,Czarnecki,Poland,,AGAINST,Prawo i Sprawiedliwość
-Bernd,Kölmel,Germany,,FOR,Liberal-Conservative Refomists
-Arne,Gericke,Germany,,NOT PRESENT,Freie Wähler
-Anders Primdahl,Vistisen,Denmark,,FOR,Dansk Folkeparti
-Zdzisław,Krasnodębski,Poland,,AGAINST,Independent
-Jussi,Halla-Aho,Finland,,AGAINST,Perussuomalaiset
-Urszula,Krupa,Poland,,AGAINST,Independent
-Zbigniew,Kuźmiuk,Poland,,AGAINST,Prawo i Sprawiedliwość
-Jana,Žitňanská,Slovakia,,AGAINST,NOVA
-Edward,Czesak,Poland,,AGAINST,Prawo i Sprawiedliwość
-Ryszard Antoni,Legutko,Poland,,AGAINST,Prawo i Sprawiedliwość
-Stanisław,Ożóg,Poland,,AGAINST,Prawo i Sprawiedliwość
-Anna Elżbieta,Fotyga,Poland,,AGAINST,Prawo i Sprawiedliwość
-Richard,Sulík,Slovakia,,AGAINST,Sloboda a Solidarita
-Beata,Gosiewska,Poland,,AGAINST,Prawo i Sprawiedliwość
-Bas,Belder,Netherlands,,AGAINST,Staatkundig Gereformeerde Partij
-Bernd,Lucke,Germany,,AGAINST,Liberal-Conservative Refomists
-John,Flack,United Kingdom,,AGAINST,Conservative Party
-Jacqueline,Foster,United Kingdom,,FOR,Conservative Party
-Anneleen,Van Bossuyt,Belgium,,AGAINST,Nieuw-Vlaamse Alliantie
-Jørn,Dohrmann,Denmark,,NOT PRESENT,Dansk Folkeparti
-Helga,Stevens,Belgium,,AGAINST,Nieuw-Vlaamse Alliantie
-Notis,Marias,Greece,,NOT PRESENT,Greece-The Alternative Road
-Raffaele,Fitto,Italy,,FOR,Conservatori e Riformisti
-Ralph,Packet,Belgium,,AGAINST,Nieuw-Vlaamse Alliantie
-Daniel,Hannan,United Kingdom,,AGAINST,Conservative Party
-Mark,Demesmaeker,Belgium,,AGAINST,Nieuw-Vlaamse Alliantie
-Innocenzo,Leontini,Italy,,FOR,Forza Italia
-Syed,Kamall,United Kingdom,,AGAINST,Conservative Party
-Rupert,Matthews,United Kingdom,,FOR,Conservative Party
-Emma,Mcclarkin,United Kingdom,,FOR,Conservative Party
-Anthea,Mcintyre,United Kingdom,,FOR,Conservative Party
-Baroness Nosheena,Mobarik,United Kingdom,,FOR,Conservative Party
-James,Nicholson,United Kingdom,,FOR,Ulster Unionist Party
-John,Procter,United Kingdom,,NOT PRESENT,Conservative Party
-Brian,Crowley,Ireland,,NOT PRESENT,Fianna Fáil Party
-Kay,Swinburne,United Kingdom,,FOR,Conservative Party
-Charles,Tannock,United Kingdom,,FOR,Conservative Party
-Geoffrey,Van Orden,United Kingdom,,FOR,Conservative Party
-Sajjad,Karim,United Kingdom,,FOR,Conservative Party
-Nikolay,Barekov,Bulgaria,,ABSTAINED,Reload Bulgaria Party
-Ashley,Fox,United Kingdom,,FOR,Conservative Party
-Stefano,Maullu,Italy,,FOR,Forza Italia
-Jan,Zahradil,Czech Republic,,AGAINST,Občanská demokratická strana
-Evžen,Tošenovský,Czech Republic,,AGAINST,Občanská demokratická strana
-Peter,Lundgren,Sweden,,AGAINST,Sverigedemokraterna
-Eleni,Theocharous,Cyprus,,NOT PRESENT,Independent
-Valdemar,Tomaševski,Lithuania,,NOT PRESENT,Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga
-Kristina,Winberg,Sweden,,AGAINST,Sverigedemokraterna
-Angel,Dzhambazki,Bulgaria,,AGAINST,VMRO
-Ruža,Tomašić,Croatia,,ABSTAINED,Hrvatska konzervativna stranka
-Joachim,Starbatty,Germany,,AGAINST,Liberal-Conservative Refomists
-Ulrike,Trebesius,Germany,,AGAINST,Liberal-Conservative Refomists
-Roberts,Zīle,Latvia,,FOR,Nacionālā apvienība Visu Latvijai! - Tēvzemei un Brīvībai/LNNK
-Laurenţiu,Rebega,Romania,,NOT PRESENT,Independent
-David,Campbell Bannerman,United Kingdom,,FOR,Conservative Party
-Nirj,Deva,United Kingdom,,FOR,Conservative Party
-Remo,Sernagiotto,Italy,,FOR,Conservatori e Riformisti
-Daniel,Dalton,United Kingdom,,AGAINST,Conservative Party
-Amjad,Bashir,United Kingdom,,FOR,Conservative Party
+﻿First Name,Last Name,Gender,Age,Country,Political_Group,_26_March_2019_Final_Vote,National_Political_Group
+Mark,Demesmaeker,male,60.0,Belgium,ECR,AGAINST,Nieuw-Vlaamse Alliantie
+Ralph,Packet,male,28.0,Belgium,ECR,AGAINST,Nieuw-Vlaamse Alliantie
+Helga,Stevens,female,50.0,Belgium,ECR,AGAINST,Nieuw-Vlaamse Alliantie
+Anneleen,Van Bossuyt,male,39.0,Belgium,ECR,AGAINST,Nieuw-Vlaamse Alliantie
+Nikolay,Barekov,male,46.0,Bulgaria,ECR,ABSTAINED,Reload Bulgaria Party
+Angel,Dzhambazki,male,40.0,Bulgaria,ECR,AGAINST,VMRO
+Ruža,Tomašić,male,60.0,Croatia,ECR,ABSTAINED,Hrvatska konzervativna stranka
+Eleni,Theocharous,male,65.0,Cyprus,ECR,NOT PRESENT,Independent
+Evžen,Tošenovský,female,63.0,Czech Republic,ECR,AGAINST,Občanská demokratická strana
+Jan,Zahradil,female,56.0,Czech Republic,ECR,AGAINST,Občanská demokratická strana
+Jørn,Dohrmann,male,50.0,Denmark,ECR,NOT PRESENT,Dansk Folkeparti
+Morten,Messerschmidt,male,38.0,Denmark,ECR,FOR,Dansk Folkeparti
+Anders Primdahl,Vistisen,male,31.0,Denmark,ECR,FOR,Dansk Folkeparti
+Jussi,Halla-Aho,male,47.0,Finland,ECR,AGAINST,Perussuomalaiset
+Pirkko,Ruohonen-Lerner,male,62.0,Finland,ECR,AGAINST,Perussuomalaiset
+Arne,Gericke,male,54.0,Germany,ECR,NOT PRESENT,Freie Wähler
+Hans-Olaf,Henkel,male,79.0,Germany,ECR,FOR,Liberal-Conservative Refomists
+Bernd,Kölmel,male,60.0,Germany,ECR,FOR,Liberal-Conservative Refomists
+Bernd,Lucke,female,56.0,Germany,ECR,AGAINST,Liberal-Conservative Refomists
+Joachim,Starbatty,female,78.0,Germany,ECR,AGAINST,Liberal-Conservative Refomists
+Ulrike,Trebesius,male,48.0,Germany,ECR,AGAINST,Liberal-Conservative Refomists
+Notis,Marias,male,61.0,Greece,ECR,NOT PRESENT,Greece-The Alternative Road
+Brian,Crowley,male,55.0,Ireland,ECR,NOT PRESENT,Fianna Fáil Party
+Raffaele,Fitto,male,49.0,Italy,ECR,FOR,Conservatori e Riformisti
+Innocenzo,Leontini,female,59.0,Italy,ECR,FOR,Forza Italia
+Stefano,Maullu,male,57.0,Italy,ECR,FOR,Forza Italia
+Remo,Sernagiotto,male,63.0,Italy,ECR,FOR,Conservatori e Riformisti
+Roberts,Zīle,male,60.0,Latvia,ECR,FOR,Nacionālā apvienība Visu Latvijai! - Tēvzemei un Brīvībai/LNNK
+Valdemar,Tomaševski,male,54.0,Lithuania,ECR,NOT PRESENT,Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga
+Bas,Belder,male,72.0,Netherlands,ECR,AGAINST,Staatkundig Gereformeerde Partij
+Peter,van Dalen,female,60.0,Netherlands,ECR,AGAINST,ChristenUnie
+Ryszard,Czarnecki,female,56.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Edward,Czesak,male,68.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Anna Elżbieta,Fotyga,female,62.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Beata,Gosiewska,female,48.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Czesław,Hoc,male,65.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Marek,Jurek,male,58.0,Poland,ECR,AGAINST,Prawica Rzeczypospolitej
+Karol,Karski,male,52.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Sławomir,Kłosowski,male,55.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Zdzisław,Krasnodębski,male,65.0,Poland,ECR,AGAINST,Independent
+Urszula,Krupa,male,69.0,Poland,ECR,AGAINST,Independent
+Zbigniew,Kuźmiuk,female,62.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Ryszard Antoni,Legutko,female,69.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Stanisław,Ożóg,male,65.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Bolesław G.,Piecha,female,64.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Mirosław,Piotrowski,male,53.0,Poland,ECR,AGAINST,Independent
+Tomasz Piotr,Poręba,male,45.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Jadwiga,Wiśniewska,female,55.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Kosma,Złotowski,male,55.0,Poland,ECR,AGAINST,Prawo i Sprawiedliwość
+Monica,Macovei,male,60.0,Romania,ECR,AGAINST,Independent
+Laurenţiu,Rebega,male,43.0,Romania,ECR,NOT PRESENT,Independent
+Branislav,Škripek,male,48.0,Slovakia,ECR,AGAINST,OBYČAJNÍ ĽUDIA
+Richard,Sulík,male,51.0,Slovakia,ECR,AGAINST,Sloboda a Solidarita
+Jana,Žitňanská,male,44.0,Slovakia,ECR,AGAINST,NOVA
+Peter,Lundgren,male,56.0,Sweden,ECR,AGAINST,Sverigedemokraterna
+Kristina,Winberg,female,53.0,Sweden,ECR,AGAINST,Sverigedemokraterna
+Amjad,Bashir,male,66.0,United Kingdom,ECR,FOR,Conservative Party
+David,Campbell Bannerman,female,58.0,United Kingdom,ECR,FOR,Conservative Party
+Daniel,Dalton,male,45.0,United Kingdom,ECR,AGAINST,Conservative Party
+Nirj,Deva,female,70.0,United Kingdom,ECR,FOR,Conservative Party
+John,Flack,male,62.0,United Kingdom,ECR,AGAINST,Conservative Party
+Jacqueline,Foster,female,71.0,United Kingdom,ECR,FOR,Conservative Party
+Ashley,Fox,female,49.0,United Kingdom,ECR,FOR,Conservative Party
+Daniel,Hannan,male,47.0,United Kingdom,ECR,AGAINST,Conservative Party
+Syed,Kamall,female,52.0,United Kingdom,ECR,AGAINST,Conservative Party
+Sajjad,Karim,male,48.0,United Kingdom,ECR,FOR,Conservative Party
+Rupert,Matthews,female,57.0,United Kingdom,ECR,FOR,Conservative Party
+Emma,Mcclarkin,male,40.0,United Kingdom,ECR,FOR,Conservative Party
+Anthea,Mcintyre,female,64.0,United Kingdom,ECR,FOR,Conservative Party
+Baroness Nosheena,Mobarik,female,61.0,United Kingdom,ECR,FOR,Conservative Party
+James,Nicholson,male,74.0,United Kingdom,ECR,FOR,Ulster Unionist Party
+John,Procter,male,52.0,United Kingdom,ECR,NOT PRESENT,Conservative Party
+Kay,Swinburne,female,51.0,United Kingdom,ECR,FOR,Conservative Party
+Charles,Tannock,female,61.0,United Kingdom,ECR,FOR,Conservative Party
+Geoffrey,Van Orden,female,73.0,United Kingdom,ECR,FOR,Conservative Party
