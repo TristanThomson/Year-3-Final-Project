@@ -9,3 +9,5 @@ Twitter_scraping/ECR/*
 Twitter_scraping/__pycache__/*
 Twitter_scraping/GUE-NGL/*
 Twitter_scraping/process.txt
+venv/*
+Dataset_completion/venv/*
