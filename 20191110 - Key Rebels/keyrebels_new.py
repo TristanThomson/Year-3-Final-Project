@@ -119,46 +119,36 @@ def toPercentage(data, vote):
         voteDict[key] = float("{0:.2f}".format((value / voteTot) * 100))
     return voteDict
 
+def minIndices(votePct,data):
+    groupMinIds = list()
+    if(votePct["FOR"]<votePct["AGAINST"]):
+        groupMinIds.extend(data.index[data['_26_March_2019_Final_Vote'] == 'FOR'].tolist())
+    elif(votePct["AGAINST"]<votePct["FOR"]):
+        groupMinIds.extend(data.index[data['_26_March_2019_Final_Vote'] == 'AGAINST'].tolist())
+    return groupMinIds
 
 def main():
     cols_to_use = [0, 1, 2, 4, 5, 7, 8, 16]
     df = pd.read_csv("data/dataset.csv", usecols=cols_to_use, encoding='utf-8-sig')
-
-    # results5 = {}
-    # data1 = filterEUGroupRow(df, 'EPP')
-    # data2 = filterCountryGroups(data1, country_groups['eu15'])
-    # data3 = filterAge(data2, 'above', 55.48666667)
-    # a = toPercentage(data3, '_26_March_2019_Final_Vote')
-    # results5["EPP, eu15, above avg"] = list(a.values())
-
-    # results6 = {}
-    # data4 = filterEUGroupRow(df, 'Greens-EFA')
-    # data5 = filterCountryGroups(data4, country_groups['eu13'])
-    # data6 = filterAge(data5, 'below', 55.48666667)
-    # a = toPercentage(data6, '_26_March_2019_Final_Vote')
-    # results6["Greens-EFA, eu13, below avg"] = list(a.values())
-    # outputToCsv('greens-eu13-below', data6)
-
-    results7 = {}
-    for i in country_groups:
-        data7 = filterCountryGroups(df, country_groups[i])
-        print(i)
-        for j in genders:
-            print(j)
-            data8 = filterGender(data7, j)
-            a = toPercentage(data8, '_26_March_2019_Final_Vote')
-            results7[i + " " + j] = list(a.values())
-    # outputToCsv('greens-eu13-below', data6)
-
     # voting for the passing but being in the party minority is more interesting
 
-    # # is there a correlation in groups?
-    # results = {}
-    # for i in EU_Groups:
-    #     data = filterEUGroupRow(df, i)
-    #     a = toPercentage(data, '_26_March_2019_Final_Vote')
-    #     results[i] = list(a.values())
-    #
+    # is there a correlation in groups?
+    minIndex = list()
+    results = {}
+    for i in EU_Groups:
+        # filters df by EP group i
+        data = filterEUGroupRow(df, i)
+        # gets percentages for the visual vote representation
+        a = toPercentage(data, '_26_March_2019_Final_Vote')
+        if i != "Non-attached":
+            minIndex.extend(minIndices(a,data))
+        results[i + ' (' + str(len(data.index)) + ')'] = list(a.values())
+
+    # this section gets indices of EP group minority MEPs (excluding non-attached)
+    df2 = pd.read_csv("data/dataset.csv", encoding='utf-8-sig')
+    res = df2.iloc[minIndex, :]
+    outputToCsv("minorities", res)
+
     # # is there a correlation in gender?
     # results2 = {}
     # for i in genders:
@@ -180,13 +170,89 @@ def main():
     #     d = filterCountryGroups(df, country_groups[j])
     #     a = toPercentage(d, '_26_March_2019_Final_Vote')
     #     results4[j] = list(a.values())
+
+    # results5 = {}
+    # data = filterCountryGroups(df, country_groups['eu15'])
+    # print(data.head)
+    # for i in EU_Groups:
+    #     data1 = filterEUGroupRow(data, i)
+    #     a = toPercentage(data1, '_26_March_2019_Final_Vote')
+    #     results5[i+' eu15 ('+str(len(data1.index))+')'] = list(a.values())
     #
-    # survey(results, votes,"groups")
-    # survey(results2, votes,"gender")
-    # survey(results3, votes,"age")
-    # survey(results4, votes,"location")
-    # survey(results5, votes,"")
-    survey(results7, votes, "gender+location")
+    # results6 = {}
+    # data = filterCountryGroups(df, country_groups['eu13'])
+    # print(data.head)
+    # for i in EU_Groups:
+    #     data1 = filterEUGroupRow(data, i)
+    #     a = toPercentage(data1, '_26_March_2019_Final_Vote')
+    #     results6[i + ' eu13 (' + str(len(data1.index)) + ')'] = list(a.values())
+
+    # results7 = {}
+    # for i in country_groups:
+    #     data7 = filterCountryGroups(df, country_groups[i])
+    #     print(i)
+    #     for j in genders:
+    #         print(j)
+    #         data8 = filterGender(data7, j)
+    #         a = toPercentage(data8, '_26_March_2019_Final_Vote')
+    #         results7[i + " " + j] = list(a.values())
+
+    # results8 = {}
+    # for i in country_groups:
+    #     data = filterCountryGroups(df, country_groups[i])
+    #     age_avg = 55.48666667
+    #     for j in ["above", "below"]:
+    #         age_filtered = filterAge(data, j, age_avg)
+    #         a = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
+    #         results8[i + " " + j + ' ('+ str(len(age_filtered.index)) + ')'] = list(a.values())
+
+    # results9 = {}
+    # for i in genders:
+    #     data = filterGender(df, i)
+    #     age_avg = 55.48666667
+    #     for j in ["above", "below"]:
+    #         age_filtered = filterAge(data, j, age_avg)
+    #         a = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
+    #         results9[i + " " + j + ' ('+ str(len(age_filtered.index)) + ')'] = list(a.values())
+
+    # results10 = {}
+    # results11 = {}
+    # for i in EU_Groups:
+    #     data = filterEUGroupRow(df, i)
+    #     age_avg = 55.48666667
+    #     age_filtered = filterAge(data, "above", age_avg)
+    #     a = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
+    #     results10[i + " " + 'above' + ' ('+ str(len(age_filtered.index)) + ')'] = list(a.values())
+    #     age_filtered = filterAge(data, "below", age_avg)
+    #     a = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
+    #     results11[i + " " + 'below' + ' (' + str(len(age_filtered.index)) + ')'] = list(a.values())
+
+    # results12 = {}
+    # results13 = {}
+    # for i in EU_Groups:
+    #     data = filterEUGroupRow(df, i)
+    #     data1 = filterGender(data, "male")
+    #     a = toPercentage(data1, '_26_March_2019_Final_Vote')
+    #     results12[i + " " + 'male' + ' ('+ str(len(data1.index)) + ')'] = list(a.values())
+    #     data1 = filterGender(data, "female")
+    #     a = toPercentage(data1, '_26_March_2019_Final_Vote')
+    #     results13[i + " " + 'female' + ' (' + str(len(data1.index)) + ')'] = list(a.values())
+
+    # DEPTH1
+    survey(results, votes,"first-level/groups")
+        # survey(results2, votes,"first-level/gender")
+        # survey(results3, votes,"first-level/age")
+        # survey(results4, votes,"first-level/location")
+    # DEPTH2
+        # survey(results5, votes, "second-level/eu15+groups")
+        # survey(results6, votes, "second-level/eu13+groups")
+        # survey(results7, votes, "second-level/gender+location")
+        # survey(results8, votes, "second-level/age+location")
+        # survey(results9, votes, "second-level/gender+age")
+        # survey(results10, votes, "second-level/group+above")
+        # survey(results11, votes, "second-level/group+below")
+        # survey(results12, votes, "second-level/group+male")
+        # survey(results13, votes, "second-level/group+female")
     plt.show()
 
 
