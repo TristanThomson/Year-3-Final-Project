@@ -4,6 +4,7 @@ import pandas as pd
 import statistics
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib import rcParams
 from matplotlib.colors import LinearSegmentedColormap
 
 EU_Groups = ["GUE-NGL", "ECR", "EPP", "S&D", "ALDE", "EFDD", "Greens-EFA", "Non-attached", "ENF"]
@@ -43,7 +44,7 @@ def survey(results, category_names, name):
     category_colors = plt.get_cmap('RdYlGn_r')(
         np.linspace(0.15, 0.85, data.shape[1]))
 
-    fig, ax = plt.subplots(figsize=(9.2, 5))
+    fig, ax = plt.subplots(figsize=(11, 5.95))
     ax.invert_yaxis()
     ax.xaxis.set_visible(False)
     ax.set_xlim(0, np.sum(data, axis=1).max())
@@ -64,7 +65,12 @@ def survey(results, category_names, name):
     ax.legend(ncol=len(category_names), bbox_to_anchor=(0, 1),
               loc='lower left', fontsize='small')
 
+    # ax.set_title("Proportion of MEPs' votes by political group")
+
+    # plt.subplots_adjust(left=0.1, bottom=0.1, right=0.1, top=0.8)
+    # plt.tight_layout()
     plt.savefig(str(name) + "out.png")
+    plt.show
     return fig, ax
 
 
@@ -119,13 +125,25 @@ def toPercentage(data, vote):
         voteDict[key] = float("{0:.2f}".format((value / voteTot) * 100))
     return voteDict
 
-def minIndices(votePct,data):
+
+def minIndices(votePct, data):
+    """
+    Parameters
+    ----------
+    votePct - vote results (in percentages) per party
+    data - dataframe filtered by party
+
+    Returns
+    -------
+    dataframe row ids of minority voters in the party
+    """
     groupMinIds = list()
-    if(votePct["FOR"]<votePct["AGAINST"]):
+    if (votePct["FOR"] < votePct["AGAINST"]):
         groupMinIds.extend(data.index[data['_26_March_2019_Final_Vote'] == 'FOR'].tolist())
-    elif(votePct["AGAINST"]<votePct["FOR"]):
+    elif (votePct["AGAINST"] < votePct["FOR"]):
         groupMinIds.extend(data.index[data['_26_March_2019_Final_Vote'] == 'AGAINST'].tolist())
     return groupMinIds
+
 
 def main():
     cols_to_use = [0, 1, 2, 4, 5, 7, 8, 16]
@@ -133,21 +151,21 @@ def main():
     # voting for the passing but being in the party minority is more interesting
 
     # is there a correlation in groups?
-    minIndex = list()
-    results = {}
-    for i in EU_Groups:
-        # filters df by EP group i
-        data = filterEUGroupRow(df, i)
-        # gets percentages for the visual vote representation
-        a = toPercentage(data, '_26_March_2019_Final_Vote')
-        if i != "Non-attached":
-            minIndex.extend(minIndices(a,data))
-        results[i + ' (' + str(len(data.index)) + ')'] = list(a.values())
+    # minIndex = list()
+    # results = {}
+    results_for_output = {}
+    # for i in EU_Groups:
+    #     # filters df by EP group i
+    #     data = filterEUGroupRow(df, i)
+    #     # gets percentages for the visual vote representation
+    #     a = toPercentage(data, '_26_March_2019_Final_Vote')
+    #     #     if i != "Non-attached":
+    #     #         minIndex.extend(minIndices(a,data))
+    #     results[i + ' (' + str(len(data.index)) + ')'] = list(a.values())
 
     # this section gets indices of EP group minority MEPs (excluding non-attached)
-    df2 = pd.read_csv("data/dataset.csv", encoding='utf-8-sig')
-    res = df2.iloc[minIndex, :]
-    outputToCsv("minorities", res)
+    # df2 = pd.read_csv("data/dataset.csv", encoding='utf-8-sig')
+    # outputToCsv("minorities", df2.iloc[minIndex, :])
 
     # # is there a correlation in gender?
     # results2 = {}
@@ -155,14 +173,18 @@ def main():
     #     data = filterGender(df, i)
     #     a = toPercentage(data, '_26_March_2019_Final_Vote')
     #     results2[i] = list(a.values())
+
     #
     # # is there a correlation in age?
-    # results3 = {}
-    # age_avg = 55.48666667
-    # for i in ["above","below"]:
-    #     age_filtered = filterAge(df, i, age_avg)
-    #     a_vote_percent = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
-    #     results3[i] = list(a_vote_percent.values())
+    results3 = {}
+    age_avg = 55.48666667
+    for i in ["above","below"]:
+        age_filtered = filterAge(df, i, age_avg)
+        a_vote_percent = toPercentage(age_filtered, '_26_March_2019_Final_Vote')
+        results3[i] = list(a_vote_percent.values())
+    print(results3)
+    results_for_output["above avg. age"] = [52.03, 3.55, 12.94, 31.47]
+    results_for_output["below avg. age"] = [37.36, 6.18, 11.8, 44.66]
     #
     # # eu15/eu13 analyses?
     # results4 = {}
@@ -239,20 +261,21 @@ def main():
     #     results13[i + " " + 'female' + ' (' + str(len(data1.index)) + ')'] = list(a.values())
 
     # DEPTH1
-    survey(results, votes,"first-level/groups")
-        # survey(results2, votes,"first-level/gender")
-        # survey(results3, votes,"first-level/age")
-        # survey(results4, votes,"first-level/location")
+    # survey(results, votes, "first-level/groups")
+    # survey(results2, votes,"first-level/gender")
+    # survey(results3, votes,"first-level/age")
+    survey(results_for_output, votes, "first-level/age")
+    # survey(results4, votes,"first-level/location")
     # DEPTH2
-        # survey(results5, votes, "second-level/eu15+groups")
-        # survey(results6, votes, "second-level/eu13+groups")
-        # survey(results7, votes, "second-level/gender+location")
-        # survey(results8, votes, "second-level/age+location")
-        # survey(results9, votes, "second-level/gender+age")
-        # survey(results10, votes, "second-level/group+above")
-        # survey(results11, votes, "second-level/group+below")
-        # survey(results12, votes, "second-level/group+male")
-        # survey(results13, votes, "second-level/group+female")
+    #     survey(results5, votes, "second-level/eu15+groups")
+    # survey(results6, votes, "second-level/eu13+groups")
+    # survey(results7, votes, "second-level/gender+location")
+    # survey(results8, votes, "second-level/age+location")
+    # survey(results9, votes, "second-level/gender+age")
+    # survey(results10, votes, "second-level/group+above")
+    # survey(results11, votes, "second-level/group+below")
+    # survey(results12, votes, "second-level/group+male")
+    # survey(results13, votes, "second-level/group+female")
     plt.show()
 
 

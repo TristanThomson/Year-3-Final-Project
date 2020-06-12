@@ -2,36 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="258ced83-283e-4fc9-a1a2-2ceb1cc2e82d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20191110 - Key Rebels/keyrebels_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_analysis/analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Year-3-Final-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Year-3-Final-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/EP-2019-Plenary-Vote-Outcome-from-xlsx.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/dataset - Copy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/keyrebelspandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/keyrebelspandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ALDE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/ALDE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ALDE_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ALDE_Germany_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ECR.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/ECR.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ECR_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/EFDD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/EFDD.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/EFDD_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ENF.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/ENF.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/ENF_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/EPP_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/EPP_Germany_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/GUE-NGL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/GUE-NGL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/GUE-NGL_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/Greens-EFA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/Greens-EFA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/Greens-EFA_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/Non-attached.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/Non-attached.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/Non-attached_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/S&amp;D.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/S&amp;D.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/S&amp;D_.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Mepnames.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Mepnames.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/process.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/process.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/wikipediaScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/wikipediaScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/data/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/data/dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/ageout.png" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/ageout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/genderout.png" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/genderout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/groupsout.png" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/groupsout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/locationout.png" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/first-level/locationout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/keyrebels_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/keyrebels_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/output/minorities.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/output/minorities.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20191110 - Key Rebels/second-level/gender+locationout.png" beforeDir="false" afterPath="$PROJECT_DIR$/20191110 - Key Rebels/second-level/gender+locationout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset_completion/wikipediaScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset_completion/wikipediaScraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter_scraping/scraper_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter_scraping/scraper_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twitter_scraping/tscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Twitter_scraping/tscraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +37,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -68,7 +60,12 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dynamicKnapsack.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.dynamicKnapsack">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tcast\Documents\Year-3-Final-Project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.analysis">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Year-3-Final-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +80,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Year-3-Final-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_analysis/analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keyrebelspandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tscraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Year-3-Final-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,36 +184,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20191110 - Key Rebels" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Twitter_scraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20191110 - Key Rebels/keyrebelspandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Twitter_scraping/tscraper.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wikipediaScraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Year-3-Final-Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datasets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datasets/wikipediaScraper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -203,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.keyrebels_new" />
+        <item itemvalue="Python.tscraper" />
         <item itemvalue="Python.dynamicKnapsack" />
         <item itemvalue="Python.cards" />
-        <item itemvalue="Python.keyrebels_new" />
-        <item itemvalue="Python.keyrebelspandas" />
-        <item itemvalue="Python.wikipediaScraper" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +243,19 @@
       <workItem from="1578311766218" duration="3288000" />
       <workItem from="1578321450176" duration="1954000" />
       <workItem from="1578839098975" duration="3552000" />
+      <workItem from="1589806275775" duration="486000" />
+      <workItem from="1589809391801" duration="10496000" />
+      <workItem from="1589879823746" duration="49946000" />
+      <workItem from="1590773495832" duration="1193000" />
+      <workItem from="1590933253714" duration="256000" />
+      <workItem from="1591275111014" duration="23912000" />
+      <workItem from="1591346635431" duration="23612000" />
+      <workItem from="1591427539378" duration="13688000" />
+      <workItem from="1591542959305" duration="35898000" />
+      <workItem from="1591864737706" duration="2485000" />
+      <workItem from="1591946420343" duration="4000" />
+      <workItem from="1591948733633" duration="449000" />
+      <workItem from="1591957139691" duration="136000" />
     </task>
     <servers />
   </component>
@@ -253,78 +263,63 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576428099561">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="138" key="GridCell.Tab.0.bottom" timestamp="1591838396286">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576428099561" />
-    <state x="702" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576611694920">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="138" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396286" />
+    <state width="1877" height="138" key="GridCell.Tab.0.center" timestamp="1591838396286">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="702" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1576611694920" />
-    <state x="803" y="415" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1576434052355">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="138" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396286" />
+    <state width="1877" height="138" key="GridCell.Tab.0.left" timestamp="1591838396286">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="803" y="415" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576434052355" />
-    <state x="679" y="151" key="#keyrebelspandas" timestamp="1576578561981">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="138" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396286" />
+    <state width="1877" height="138" key="GridCell.Tab.0.right" timestamp="1591838396286">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="151" key="#keyrebelspandas/0.0.1920.1050@0.0.1920.1050" timestamp="1576578561981" />
-    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1578321475936">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="138" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396286" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591838396252">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578321475936" />
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1578320052738">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396252" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591838396252">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578320052738" />
-    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1578320052738">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396251" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591838396251">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578320052738" />
-    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1578320052737">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396251" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591838396252">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578320052737" />
-    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1578320052738">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591838396252" />
+    <state x="756" y="231" key="RollbackChangesDialog" timestamp="1589983271823">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578320052738" />
-    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1576676254587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="756" y="231" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589983271823" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589806364105">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576676254587" />
-    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1576676254587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589806364105" />
+    <state x="681" y="261" width="570" height="524" key="StructurePopup" timestamp="1591434046421">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576676254587" />
-    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1576676254587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="681" y="261" width="570" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591434046421" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591957141357">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576676254587" />
-    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1576676254587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591957141357" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589819810511">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576676254587" />
-    <state x="525" y="222" key="SettingsEditor" timestamp="1576427742869">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="525" y="222" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1576427742869" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1578839125521">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578839125521" />
-    <state x="656" y="130" width="607" height="789" key="find.popup" timestamp="1576615586469">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="656" y="130" width="607" height="789" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1576615586469" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576618602729">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1576618602729" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589819810511" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Year_3_Final_Project$wikipediaScraper.coverage" NAME="wikipediaScraper Coverage Results" MODIFIED="1576578195672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets" />
     <SUITE FILE_PATH="coverage/Year_3_Final_Project$keyrebelspandas.coverage" NAME="keyrebelspandas Coverage Results" MODIFIED="1576614890539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20191110 - Key Rebels" />
-    <SUITE FILE_PATH="coverage/Year_3_Final_Project$keyrebels_new.coverage" NAME="keyrebels_new Coverage Results" MODIFIED="1578311830610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20191110 - Key Rebels" />
+    <SUITE FILE_PATH="coverage/Year_3_Final_Project$keyrebels_new.coverage" NAME="keyrebels_new Coverage Results" MODIFIED="1591814016831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20191110 - Key Rebels" />
+    <SUITE FILE_PATH="coverage/Year_3_Final_Project$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1591802235439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_analysis" />
   </component>
 </project>

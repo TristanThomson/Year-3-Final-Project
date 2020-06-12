@@ -28,20 +28,6 @@ class TwintScraper:
         c.Pandas = True
         tw.run.Lookup(c)
 
-    # def accountExists(self, username):
-    #     print(username, " being checked")
-    #     if username == "nan":
-    #         return False
-    #     tw.output.users_list = []
-    #     c = tw.Config()
-    #     c.Username = username
-    #     c.Store_object = True
-    #     c.Format = "{username}"
-    #     tw.run.Lookup(c)
-    #     user = tw.output.users_list
-    #     print(tw.output.users_list)
-    #     return True if (len(user) > 0) else False
-
     def accountExists(self, username):
         if username == "nan":
             return False
@@ -59,9 +45,8 @@ class TwintScraper:
                 tracker.append(path.parent.name)
         print(tracker)
 
-    def hashtag_helper(self, search, mep):  # gets twint to work while iterating through meps
+    def hashtag_helper(self, search, mep):
         tweets = []
-        # print(mep)
         c = tw.Config()
         c.Username = str(mep)
         c.Search = search
@@ -97,7 +82,6 @@ class TwintScraper:
 
     def get_followings(self, username):
         # tw.storage.panda.clean
-        print(tw.storage.panda.Follow_df)
         c = tw.Config()
         c.Username = username
         c.Pandas = True
@@ -110,7 +94,6 @@ class TwintScraper:
         return out
 
     def get_followers(self, username):
-        print(tw.storage.panda.Follow_df)
         d = tw.Config()
         d.Username = username
         d.Pandas = True
@@ -118,7 +101,7 @@ class TwintScraper:
         d.Pandas_clean = True
         tw.run.Followers(d)
         print("collected followers")
-        list_of_followers = tw.storage.panda.Follow_df
+        list_of_followers = tw.storage.panda.Follow_df  # accessing Twint's storage in memory
         out = list_of_followers['followers'][username]
         return out
 
@@ -127,11 +110,10 @@ class TwintScraper:
             os.makedirs(party + "/" + state + "/" + username)
         if os.path.isfile(party + "/" + state + "/" + username + "/followers.csv"):
             return
-        test = self.get_followers(username)
-        if test is None:
+        u_followers = self.get_followers(username)
+        if u_followers is None:
             sys.exit("Test unassigned")
-        df = pd.DataFrame({'username': test})
-
+        df = pd.DataFrame({'username': u_followers})
         self.dftocsv(party + "/" + state + "/" + username + "/followers", df)
 
     def user_following(self, username, party, state):
@@ -139,10 +121,10 @@ class TwintScraper:
             os.makedirs(party + "/" + state + "/" + username)
         if os.path.isfile(party + "/" + state + "/" + username + "/following.csv"):
             return
-        test = self.get_followings(username)
-        if test is None:
+        u_followers = self.get_followings(username)
+        if u_followers is None:
             sys.exit("Test unassigned")
-        df = pd.DataFrame({'username': test})
+        df = pd.DataFrame({'username': u_followers})
         self.dftocsv(party + "/" + state + "/" + username + "/following", df)
 
     def search_criteria(self, keywords):
@@ -210,10 +192,10 @@ class TwintScraper:
     #     return repliers
 
     def tweet_info(self, search, obj, connections):
-        u_rt, u_like, u_ment = [],[],[]
+        u_rt, u_like, u_ment = [], [], []
         tweets = self.tweets_collector(obj[0], search)  # tweets in time period with keywords from source to target
         if len(tweets) > 0:
-            retweeters, likers, mentions = [],[],[]
+            retweeters, likers, mentions = [], [], []
             for i in tweets:
                 if int(i.retweets_count) > 0:
                     retweeters = self.get_retweeters_list(i.username, str(i.id))
@@ -266,8 +248,9 @@ class TwintScraper:
         #           a - that mention connections
         #       1.2 - to all others
         mep_connections = pd.read_csv(
-            "/home/tcast/Documents/Final_project/Year-3-Final-Project/Twitter_scraping/" + obj[1] + "/" + obj[2] + "/" +
-            obj[0] + ".csv", encoding='utf-8-sig')
+            # "/home/tcast/Documents/Final_project/Year-3-Final-Project/Twitter_scraping/" + obj[1] + "/" + obj[2] + "/" +
+            # obj[0] + ".csv", encoding='utf-8-sig')
+            obj[1] + "/" + obj[2] + "/" + obj[0] + ".csv", encoding='utf-8-sig')
         for idx, item in enumerate(["S_likes_T", "S_mentions_T", "S_rt_T", "T_likes_S", "T_mentions_S", "T_rt_S"]):
             try:
                 mep_connections.insert(4 + idx, item, 0)
@@ -282,16 +265,11 @@ class TwintScraper:
             mep_connections = self.tweet_info_storage(mep_connections, u_rt, obj[0], "T_rt_S", "S_rt_T")
             mep_connections = self.tweet_info_storage(mep_connections, u_like, obj[0], "T_likes_S", "S_likes_T")
             mep_connections = self.tweet_info_storage(mep_connections, u_ment, obj[0], "S_mentions_T", "T_mentions_S")
-            self.dftocsv(
-                "/home/tcast/Documents/Final_project/Year-3-Final-Project/Twitter_scraping/" + obj[1] + "/" + obj[
-                    2] + "/" +
-                obj[0], mep_connections)
+            self.dftocsv(obj[1] + "/" + obj[2] + "/" + obj[0], mep_connections)
         print("***")
 
     def others_tweets(self, search, obj):  # HOW THE MEP INTERACTS WITH CONTENT PUBLISHED BY OTHER USERS
-        mep_connections = pd.read_csv(
-            "/home/tcast/Documents/Final_project/Year-3-Final-Project/Twitter_scraping/" + obj[1] + "/" + obj[2] + "/" +
-            obj[0] + ".csv", encoding='utf-8-sig')
+        mep_connections = pd.read_csv(obj[1] + "/" + obj[2] + "/" + obj[0] + ".csv", encoding='utf-8-sig')
         connect_list = self.connection_to_list(mep_connections, obj[0])
         for user in connect_list:
             if self.accountExists(user):
@@ -305,23 +283,7 @@ class TwintScraper:
                     mep_connections = self.tweet_info_storage(mep_connections, u_like, user, "T_likes_S", "S_likes_T")
                     mep_connections = self.tweet_info_storage(mep_connections, u_ment, user, "S_mentions_T",
                                                               "T_mentions_S")
-                    self.dftocsv(
-                        "/home/tcast/Documents/Final_project/Year-3-Final-Project/Twitter_scraping/" + obj[1] + "/" +
-                        obj[
-                            2] + "/" + obj[0], mep_connections)
-
-        # tweets during time period
-        # that contain keywords
-        # that mention / are liked by / are retweeted by MEP
-        # print("retweet: ", i.retweet)
-        # - is this a retweet of a connection's tweet?
-        # - reply to connection? (row["reply_to"])
-        # 2 - Tweets INWARD to MEP
-        #       1.1 - from followers & friends
-        #           a - liked by MEP
-        #           a - retweeted by MEP
-        #           a - that mention MEP
-        #       1.2 - from all others
+                    self.dftocsv(obj[1] + "/" + obj[2] + "/" + obj[0], mep_connections)
 
 
 if __name__ == "__main__":
@@ -341,35 +303,15 @@ if __name__ == "__main__":
     #                "directivecopyright", "créateurs", "wirsindkeinebots", "artikla13", "freeinternet", "artikel12"]
 
     Scraper = TwintScraper()
-    min_df = pd.read_csv(
-        "/home/tcast/Documents/Final_project/Year-3-Final-Project" + "/20191110 - Key Rebels/output/minorities.csv",
-        encoding='utf-8-sig')
-    all_df = pd.read_csv(
-        "/home/tcast/Documents/Final_project/Year-3-Final-Project" + "/20191110 - Key Rebels/data/dataset.csv",
-        encoding='utf-8-sig')
+    min_df = pd.read_csv("../20191110 - Key Rebels/output/minorities.csv", encoding='utf-8-sig')
+    all_df = pd.read_csv("../20191110 - Key Rebels/data/dataset.csv", encoding='utf-8-sig')
     meps = all_df["Twitter"].dropna()
     keywords = Scraper.search_criteria(source_tags)
 
-    # for index, row in min_df.loc[int(sys.argv[1]):int(sys.argv[2])].iterrows():
     # for index, row in min_df.iterrows():
     #     username = str(row["Twitter"]).lower()  # assigns and lowercases the handle of the MEP in current row
     #     group = row["Political_Group"]  # assigns the political group of the MEP in current row
     #     state = "minority"  # assigns default "state" of their vote
-    #     if group == "ALDE":
-    #         if Scraper.accountExists(username) and username in ["renateweber"]:
-    #         # if group == "GUE-NGL" and username == "emmanuelmaurel":
-    #             Scraper.mep_tweets(keywords, [username, group, state])
-    #             #     # Scraper.mep_tweets(keywords, ["dantinicola", "S&D", "majority"])
-    #             Scraper.others_tweets(keywords, [username, group, state])
-    #         #     # Scraper.others_tweets(keywords, ["dantinicola", "S&D", "majority"])
-
-    for index, row in all_df.iterrows():
-        username = str(row["Twitter"]).lower()  # assigns and lowercases the handle of the MEP in current row
-        group = row["Political_Group"]  # assigns the political group of the MEP in current row
-        state = "majority"  # assigns default "state" of their vote
-        if str(username).lower() in map(lambda x: x.lower(), min_df["Twitter"].dropna()):
-            state = "minority"
-        if group == "ALDE" and state == "majority":
-            if Scraper.accountExists(username):
-                Scraper.mep_tweets(keywords, [username, group, state])
-                Scraper.others_tweets(keywords, [username, group, state])
+    #     if Scraper.accountExists(username):
+    #         Scraper.mep_tweets(keywords, [username, group, state])
+    #         Scraper.others_tweets(keywords, [username, group, state])

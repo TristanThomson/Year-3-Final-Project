@@ -1,33 +1,10 @@
 import pandas as pd
-# import random as rdm
 import twint as tw
 import os
 from Twitter_scraping.tscraper import TwintScraper
 
 min_df = pd.read_csv("../20191110 - Key Rebels/output/minorities.csv", encoding='utf-8-sig')
 all_df = pd.read_csv("../20191110 - Key Rebels/data/dataset.csv", encoding='utf-8-sig')
-
-
-
-# def draw_MEP(self, meps_df=min_df):
-#     index = rdm.randrange(0, len(meps_df))
-#     rand_mep = meps_df.loc[index, "Twitter"]
-#     return rand_mep
-#
-# def randomMEPs(self, num_select):
-#     output = [None] * num_select
-#     for i in range(num_select):
-#         rand_mep = self.draw_MEP()
-#         while rand_mep not in output:
-#             rand_mep = self.draw_MEP()
-#             output[i] = rand_mep
-#         while type(rand_mep) != str or not self.accountExists(rand_mep):
-#             rand_mep = self.draw_MEP()
-#             while rand_mep not in output:
-#                 rand_mep = self.draw_MEP()
-#                 output[i] = rand_mep
-#
-#     return output
 
 def collect_connections(ts, rndm):
     for index, row in all_df.iterrows():  # traverses all MEPs in all_df
@@ -43,13 +20,11 @@ def collect_connections(ts, rndm):
             if rndm.accountExists(mep):
                 if not os.path.isfile(group + "/" + state + "/" + mep + "/followers.csv"):
                     ts.user_followers(mep, group, state)  # begin scraping followers if the file doesn't exist
-                tw.storage.panda.clean
                 if not os.path.isfile(group + "/" + state + "/" + mep + "/following.csv"):
                     ts.user_following(mep, group, state)  # begin scraping followings if the file doesn't exist
-            # else:
-            #     print("no handle")
         except Exception as e:  # acts as a log
             ts.user_info(mep)
+            print(e)
             pass
 
 def csvfilesize(filename):
@@ -57,7 +32,6 @@ def csvfilesize(filename):
         return sum(1 for line in f)
 
 def converter_helper(f,user,fname,df):
-    hello = fname
     for i, line in enumerate(f):
         if i == 0:
             continue
@@ -71,7 +45,6 @@ def converter_helper(f,user,fname,df):
     return df
 
 def converter(Scraper):
-    print("this is converter")
     for index, row in all_df.iterrows():  # traverses all MEPs in all_df
         # if str(row["Twitter"]).lower() == username:
         df = pd.DataFrame(columns=['Source', 'Target', 'S_is_MEP', 'T_is_MEP'])
@@ -88,7 +61,7 @@ def converter(Scraper):
                         df = converter_helper(f,str(row["Twitter"]).lower(),file,df)
                     file_size += csvfilesize(group + "/" + state + "/" + username + "/" + file)
                 except:
-                    print("hey")
+                    pass
             if len(df.index) == file_size-2:
                 print(len(df.index), file_size-2)
                 print("file written to " + group + "/" + state + "/" + username + ".csv")
